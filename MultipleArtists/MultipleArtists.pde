@@ -1,3 +1,7 @@
+/*
+    Songkick tour data visualisation by Miki Beavis 2014.
+*/
+
 
 import com.reades.mapthing.*;
 import net.divbyzero.gpx.*;
