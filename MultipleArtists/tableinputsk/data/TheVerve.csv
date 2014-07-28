@@ -1,0 +1,172 @@
+id,xcoord,ycoord,venueSize,gigName,locationName,billing,headlineArtist,date,year,month,day,time
+0,-2.61667,53.5333,-1,"The Verve at The Honeysuckle (August 15, 1990)","Wigan, UK",,,1990-08-15,1990,8,15,null
+1,-2.235,53.477,-1,"The Verve at The Boardwalk (February 3, 1991)","Manchester, UK",,,1991-02-03,1991,2,3,null
+2,-2.235,53.477,-1,"The Verve at The Boardwalk (February 22, 1991)","Manchester, UK",,,1991-02-22,1991,2,22,null
+3,-2.43333,53.5833,-1,"The Verve at Bolton Institute Students Union (March 9, 1991)","Bolton, UK",,,1991-03-09,1991,3,9,null
+4,-2.235,53.477,-1,"The Verve at The Boardwalk (March 14, 1991)","Manchester, UK",,,1991-03-14,1991,3,14,null
+5,-2.7391498,53.45225,-1,"The Verve at Citadel Arts Center (March 16, 1991)","St Helens, UK",,,1991-03-16,1991,3,16,null
+6,-2.61667,53.5333,-1,"The Verve at Mill At The Pier (March 23, 1991)","Wigan, UK",,,1991-03-23,1991,3,23,null
+7,-2.7391498,53.45225,-1,"The Verve at Citadel Arts Center (April 3, 1991)","St Helens, UK",,,1991-04-03,1991,4,3,null
+8,-2.235,53.477,-1,"The Verve at The Boardwalk (April 19, 1991)","Manchester, UK",,,1991-04-19,1991,4,19,null
+9,-2.979,53.402,-1,"The Verve at St. Catherine's College (May 10, 1991)","Liverpool, UK",,,1991-05-10,1991,5,10,null
+10,-2.61667,53.5333,-1,"The Verve at Upholland Working Man's Club (May 17, 1991)","Wigan, UK",,,1991-05-17,1991,5,17,null
+11,-2.235,53.477,-1,"The Verve at The Boardwalk (June 27, 1991)","Manchester, UK",,,1991-06-27,1991,6,27,null
+12,-0.2111433,51.47137,-1,"The Verve at King's Head, Fulham Broadway (July 3, 1991)","London, UK",,,1991-07-03,1991,7,3,null
+13,-2.7391498,53.45225,-1,"The Verve at Citadel Arts Center (November 2, 1991)","St Helens, UK",,,1991-11-02,1991,11,2,null
+14,-2.43333,53.5833,-1,"The Verve at Crown And Cushion (November 5, 1991)","Bolton, UK",,,1991-11-05,1991,11,5,null
+15,-0.1388487,51.542355,-1,"The Verve at The Camden Falcon (November 25, 1991)","London, UK",,,1991-11-25,1991,11,25,null
+16,-0.1302396,51.521408,820,"Moose and The Verve at University of London Union (ULU) (January 10, 1992)","London, UK",,,1992-01-10,1992,1,10,null
+17,-0.1390398,51.557907,600,"The Verve at The Dome, Tufnell Park (January 22, 1992)","London, UK",,,1992-01-22,1992,1,22,null
+18,-0.128,51.5078,275,"The Verve at The Borderline (January 30, 1992)","London, UK",,,1992-01-30,1992,1,30,null
+19,-1.259,51.745,-1,"The Verve at Apollo (February 7, 1992)","Oxford, UK",,,1992-02-07,1992,2,7,null
+20,-0.1304708,51.515884,2000,"Smashing Pumpkins with The Verve and Catherine Wheel at Astoria (February 14, 1992)","London, UK",,,1992-02-14,1992,2,14,null
+21,-1.259,51.745,-1,"The Verve at Wadham College (February 28, 1992)","Oxford, UK",,,1992-02-28,1992,2,28,null
+22,0.1194611,52.20439,1800,"Ride and The Verve at Corn Exchange Cambridge (March 1, 1992)","Cambridge, UK",,,1992-03-01,1992,3,1,null
+23,1.2490275,52.62884,1500,"Ride and The Verve at Norwich UEA LCR (March 2, 1992)","Norwich, UK",,,1992-03-02,1992,3,2,null
+24,-1.4765307,52.922752,-1,"Ride and The Verve at Assembly Rooms (March 3, 1992)","Derby, UK",,,1992-03-03,1992,3,3,null
+25,-2.1758509,53.023476,-1,"Ride and The Verve at Victoria Hall (March 4, 1992)","Stoke On Trent, UK",,,1992-03-04,1992,3,4,null
+26,-1.4912771,53.381065,-1,"Ride with The Verve at Octagon Centre, University of Sheffield (March 5, 1992)","Sheffield, UK",,,1992-03-05,1992,3,5,null
+27,-1.5572104,53.807632,2100,"Ride and The Verve at The Refectory, Leeds University (March 6, 1992)","Leeds, UK",,,1992-03-06,1992,3,6,null
+28,-2.23149,53.464108,1500,"Ride and The Verve at Manchester Academy (March 7, 1992)","Manchester, UK",,,1992-03-07,1992,3,7,null
+29,-1.2350084,54.57475,-1,"Ride with The Verve at Middlesbrough Town Hall (March 9, 1992)","Middlesbrough, UK",,,1992-03-09,1992,3,9,null
+30,-1.2188351,54.692936,-1,"The Verve at Town Hall (March 9, 1992)","Hartlepool, UK",,,1992-03-09,1992,3,9,null
+31,-2.11,57.1526,-1,"The Verve at Capitol Theatre (March 11, 1992)","Aberdeen, UK",,,1992-03-11,1992,3,11,null
+32,-2.23149,53.464108,1500,"The Verve at Manchester Academy (March 14, 1992)","Manchester, UK",,,1992-03-14,1992,3,14,null
+33,-1.611,54.973,-1,"Ride with The Verve at Mayfair Ballroom (March 15, 1992)","Newcastle Upon Tyne, UK",,,1992-03-15,1992,3,15,null
+34,-2.9813228,53.407375,-1,"Ride, Mercury Rev, and The Verve at Royal Court Theatre (March 16, 1992)","Liverpool, UK",,,1992-03-16,1992,3,16,null
+35,-1.893883,52.480877,-1,"The Verve at Hummingbird (March 17, 1992)","Birmingham, UK",,,1992-03-17,1992,3,17,null
+36,-1.0930138,50.796375,-1,"The Verve at Portsmouth Guildhall (March 20, 1992)","Portsmouth, UK",,,1992-03-20,1992,3,20,null
+37,1.174568,51.076447,-1,"The Verve at Leas Cliff Hall (March 21, 1992)","Folkestone, UK",,,1992-03-21,1992,3,21,null
+38,-1.1192095,52.62653,-1,"The Verve at De Montfort Hall (March 23, 1992)","Leicester, UK",,,1992-03-23,1992,3,23,null
+39,-0.1064525,51.53331,-1,"The Verve at Powerhaus (March 24, 1992)","London, UK",,,1992-03-24,1992,3,24,null
+40,-0.138,50.839,-1,"Ride, Mercury Rev, and The Verve at The Event (March 25, 1992)","Brighton, UK",,,1992-03-25,1992,3,25,null
+41,-0.1148897,51.465122,4921,"Ride with The Verve and Mercury Rev at O2 Academy Brixton (March 27, 1992)","London, UK",,,1992-03-27,1992,3,27,null
+42,-0.1064525,51.53331,-1,"The Verve with Puressence at Powerhaus (April 25, 1992)","London, UK",,,1992-04-25,1992,4,25,null
+43,-2.115,52.586,-1,"The Verve at Picasso's (May 1, 1992)","Wolverhampton, UK",,,1992-05-01,1992,5,1,null
+44,-0.948085,51.440952,-1,"The Verve at Reading University Student Union (May 2, 1992)","Reading, UK",,,1992-05-02,1992,5,2,null
+45,-1.4648403,53.376324,900,"Spiritualized and The Verve at The Leadmill (May 3, 1992)","Sheffield, UK",,,1992-05-03,1992,5,3,null
+46,-1.6152074,54.97923,-1,"The Verve at Newcastle University Students Union (May 4, 1992)","Newcastle Upon Tyne, UK",,,1992-05-04,1992,5,4,null
+47,-2.9713595,53.402466,-1,"The Verve at Liverpool Polytechnic Student Union (May 5, 1992)","Liverpool, UK",,,1992-05-05,1992,5,5,null
+48,-1.5065974,53.799652,-1,"The Verve at Leeds Irish Centre (May 7, 1992)","Leeds, UK",,,1992-05-07,1992,5,7,null
+49,1.2490275,52.62884,1500,"The Verve at Norwich UEA LCR (May 8, 1992)","Norwich, UK",,,1992-05-08,1992,5,8,null
+50,-0.141771,51.552048,2350,"Spiritualized with The Verve and Bark Psychosis at The Forum (May 10, 1992)","London, UK",,,1992-05-10,1992,5,10,null
+51,-0.03674,51.476162,-1,"The Verve at The Venue, New Cross (June 12, 1992)","London, UK",,,1992-06-12,1992,6,12,null
+52,-0.138,50.839,-1,"The Verve at The Richmond Hotel (July 8, 1992)","Brighton, UK",,,1992-07-08,1992,7,8,null
+53,-0.6,51.4833,-1,"The Verve at Old Trout (July 9, 1992)","Windsor, UK",,,1992-07-09,1992,7,9,null
+54,-1.3965323,50.904526,150,"The Verve at The Joiners (July 10, 1992)","Southampton, UK",,,1992-07-10,1992,7,10,null
+55,-1.9017591,52.476963,-1,"The Verve at Edward No. 8 (July 12, 1992)","Birmingham, UK",,,1992-07-12,1992,7,12,null
+56,-1.4826803,52.923294,-1,"The Verve at Wherehouse (July 13, 1992)","Derby, UK",,,1992-07-13,1992,7,13,null
+57,-1.1377037,52.631897,-1,"The Verve at Princess Charlotte (July 15, 1992)","Leicester, UK",,,1992-07-15,1992,7,15,null
+58,-0.8,51.8167,-1,"The Verve at The Recreation (July 16, 1992)","Aylesbury, UK",,,1992-07-16,1992,7,16,null
+59,-0.1700149,51.462868,-1,"The Verve at The Clapham Grand (July 17, 1992)","London, UK",,,1992-07-17,1992,7,17,null
+60,-2.23149,53.464108,450,"The Verve at Manchester Academy 3 (July 18, 1992)","Manchester, UK",,,1992-07-18,1992,7,18,null
+61,-2.979,53.402,-1,"The Verve at Krazy House (July 19, 1992)","Liverpool, UK",,,1992-07-19,1992,7,19,null
+62,-2.61667,53.5333,-1,"The Verve at Mill At The Pier (October 9, 1992)","Wigan, UK",,,1992-10-09,1992,10,9,null
+63,-1.6038477,54.972137,-1,"The Verve at Riverside 1 (October 14, 1992)","Newcastle Upon Tyne, UK",,,1992-10-14,1992,10,14,null
+64,-3.188,55.952,-1,"The Verve at Music Box (October 15, 1992)","Edinburgh, UK",,,1992-10-15,1992,10,15,null
+65,-4.2653494,55.8625,300,"The Verve at King Tut's Wah Wah Hut (October 16, 1992)","Glasgow, UK",,,1992-10-16,1992,10,16,null
+66,-1.4912771,53.381065,-1,"The Verve at Octagon Centre, University of Sheffield (October 19, 1992)","Sheffield, UK",,,1992-10-19,1992,10,19,null
+67,-1.12483,52.623302,-1,"The Verve at Leicester University Student Union (October 20, 1992)","Leicester, UK",,,1992-10-20,1992,10,20,null
+68,-0.1588255,51.551704,-1,"The Verve at Camden Town Hall (October 23, 1992)","Camden, UK",,,1992-10-23,1992,10,23,null
+69,-2.9934728,51.58761,-1,"The Verve at Newport Centre (November 19, 1992)","Newport, UK",,,1992-11-19,1992,11,19,null
+70,-1.751011,53.79226,-1,"The Verve at St George's Concert Hall (November 20, 1992)","Bradford, UK",,,1992-11-20,1992,11,20,null
+71,-2.206175,53.460663,7000,"The Verve at O2 Apollo Manchester (November 21, 1992)","Manchester, UK",,,1992-11-21,1992,11,21,null
+72,-1.4709553,53.380676,-1,"The Verve at Sheffield City Hall (November 22, 1992)","Sheffield, UK",,,1992-11-22,1992,11,22,null
+73,-4.2369184,55.855057,1900,"The Verve and The Black Crowes at Barrowland Ballroom (November 24, 1992)","Glasgow, UK",,,1992-11-24,1992,11,24,null
+74,-1.609466,54.977177,2500,"The Verve at Newcastle City Hall (November 25, 1992)","Newcastle Upon Tyne, UK",,,1992-11-25,1992,11,25,null
+75,-1.8731058,52.506416,-1,"The Verve at Aston Events Centre (November 26, 1992)","Birmingham, UK",,,1992-11-26,1992,11,26,null
+76,-0.1148897,51.465122,4921,"The Black Crowes with The Verve at O2 Academy Brixton (November 28, 1992)","London, UK",,,1992-11-28,1992,11,28,null
+77,-0.1148897,51.465122,4921,"The Black Crowes with The Verve at O2 Academy Brixton (November 29, 1992)","London, UK",,,1992-11-29,1992,11,29,null
+78,-2.23149,53.464108,450,"The Verve at Manchester Academy 3 (May 19, 1993)","Manchester, UK",,,1993-05-19,1993,5,19,null
+79,-2.979,53.402,-1,"The Verve at Krazy House (May 20, 1993)","Liverpool, UK",,,1993-05-20,1993,5,20,null
+80,-3.186456,55.95311,-1,"The Verve at The Venue (May 21, 1993)","Edinburgh, UK",,,1993-05-21,1993,5,21,null
+81,-4.2653494,55.8625,300,"The Verve at King Tut's Wah Wah Hut (May 22, 1993)","Glasgow, UK",,,1993-05-22,1993,5,22,null
+82,-1.5398636,53.798473,-1,"The Verve at Duchess of York (May 24, 1993)","Leeds, UK",,,1993-05-24,1993,5,24,null
+83,-1.4826803,52.923294,-1,"The Verve at Wherehouse (May 25, 1993)","Derby, UK",,,1993-05-25,1993,5,25,null
+84,-1.9017591,52.476963,-1,"The Verve at Edward No. 8 (May 26, 1993)","Birmingham, UK",,,1993-05-26,1993,5,26,null
+85,-0.9678851,51.451366,-1,"The Verve at After Dark (May 28, 1993)","Reading, UK",,,1993-05-28,1993,5,28,null
+86,-1.259,51.745,-1,"The Verve at The Venue (May 29, 1993)","Oxford, UK",,,1993-05-29,1993,5,29,null
+87,-2.589343,51.45231,400,"The Verve with Mr. Ray's Wig World at The Fleece (May 31, 1993)","Bristol, UK",,,1993-05-31,1993,5,31,null
+88,-0.1417947,50.81998,-1,"The Verve at Zap Club (June 1, 1993)","Brighton, UK",,,1993-06-01,1993,6,1,null
+89,-0.6,51.4833,-1,"The Verve at Old Trout (June 2, 1993)","Windsor, UK",,,1993-06-02,1993,6,2,null
+90,-0.1302396,51.521408,820,"The Verve at University of London Union (ULU) (June 4, 1993)","London, UK",,,1993-06-04,1993,6,4,null
+91,-0.1296387,51.51391,-1,"The Verve at Marquee Club - Charing Cross Road (June 4, 1993)","London, UK",,,1993-06-04,1993,6,4,null
+92,-2.587,51.1663,-1,Glastonbury Festival 1993,"Pilton, UK",,,1993-06-25,1993,6,25,null
+93,-2.1299286,52.586216,4000,"Smashing Pumpkins with The Verve at The Civic Hall (September 11, 1993)","Wolverhampton, UK",,,1993-09-11,1993,9,11,null
+94,0.1194611,52.20439,1800,"Smashing Pumpkins and The Verve at Corn Exchange Cambridge (September 13, 1993)","Cambridge, UK",,,1993-09-13,1993,9,13,null
+95,-1.5473124,53.8018,2700,"Smashing Pumpkins and The Verve at O2 Academy Leeds (September 14, 1993)","Leeds, UK",,,1993-09-14,1993,9,14,null
+96,-2.23149,53.464108,1500,"Smashing Pumpkins and The Verve at Manchester Academy (September 15, 1993)","Manchester, UK",,,1993-09-15,1993,9,15,null
+97,-2.9813228,53.407375,-1,"Smashing Pumpkins and The Verve at Royal Court Theatre (September 17, 1993)","Liverpool, UK",,,1993-09-17,1993,9,17,null
+98,-4.2369184,55.855057,1900,"Smashing Pumpkins and The Verve at Barrowland Ballroom (September 18, 1993)","Glasgow, UK",,,1993-09-18,1993,9,18,null
+99,-1.259,51.745,-1,"The Verve at The Venue (September 20, 1993)","Oxford, UK",,,1993-09-20,1993,9,20,null
+100,-1.1535941,52.955887,2000,"Smashing Pumpkins and The Verve at Rock City (September 21, 1993)","Nottingham, UK",,,1993-09-21,1993,9,21,null
+101,-3.1771,51.478,-1,"Smashing Pumpkins and The Verve at Cardiff University (September 22, 1993)","Cardiff, UK",,,1993-09-22,1993,9,22,null
+102,-1.4055136,50.907608,1749,"Smashing Pumpkins and The Verve at Southampton Guildhall (September 23, 1993)","Southampton, UK",,,1993-09-23,1993,9,23,null
+103,-0.1148897,51.465122,4921,"Smashing Pumpkins with The Verve and Liz Phair at O2 Academy Brixton (September 25, 1993)","London, UK",,,1993-09-25,1993,9,25,null
+104,-0.1289811,51.51288,-1,"The Verve at Astoria 2 (September 28, 1993)","London, UK",,,1993-09-28,1993,9,28,null
+105,-2.1299286,52.586216,1200,"The Verve and Oasis at Wulfrun Hall (December 8, 1993)","Wolverhampton, UK",,,1993-12-08,1993,12,8,null
+106,-2.23149,53.464108,450,"The Verve at Manchester Academy 3 (December 9, 1993)","Manchester, UK",,,1993-12-09,1993,12,9,null
+107,-4.2570133,55.85869,-1,"The Verve and Oasis at Cathouse (December 10, 1993)","Glasgow, UK",,,1993-12-10,1993,12,10,null
+108,-2.701,53.757,-1,"The Verve and Oasis at Mill (December 11, 1993)","Preston, UK",,,1993-12-11,1993,12,11,null
+109,-1.6038477,54.972137,-1,"The Verve and Oasis at Riverside 1 (December 13, 1993)","Newcastle Upon Tyne, UK",,,1993-12-13,1993,12,13,null
+110,-1.7598625,53.789955,-1,"The Verve at Bradford University Union, Queens Hall (December 14, 1993)","Bradford, UK",,,1993-12-14,1993,12,14,null
+111,-0.1289811,51.51288,-1,"The Verve at Astoria 2 (December 17, 1993)","London, UK",,,1993-12-17,1993,12,17,null
+112,-1.4648403,53.376324,900,"The Verve at The Leadmill (December 18, 1993)","Sheffield, UK",,,1993-12-18,1993,12,18,null
+113,-0.1700149,51.462868,-1,"The Verve at The Clapham Grand (August 12, 1994)","London, UK",,,1994-08-12,1994,8,12,null
+114,-0.9831782,51.46432,-1,Reading Festival 1994,"Reading, UK",,,1994-08-26,1994,8,26,null
+115,0.6910414,51.5372,-1,"Oasis with The Verve at Cliffs Pavilion (April 17, 1995)","Westcliff-on-sea, UK",,,1995-04-17,1995,4,17,null
+116,-1.5398636,53.798473,-1,"The Verve at Duchess of York (April 18, 1995)","Leeds, UK",,,1995-04-18,1995,4,18,null
+117,-1.8890387,52.451,-1,"The Verve at The Jug of Ale (April 19, 1995)","Birmingham, UK",,,1995-04-19,1995,4,19,null
+118,-2.2338095,53.481056,200,"The Verve at The Roadhouse (June 6, 1995)","Manchester, UK",,,1995-06-06,1995,6,6,null
+119,-2.9868503,53.40777,-1,"The Verve at Lomax 1 (June 7, 1995)","Liverpool, UK",,,1995-06-07,1995,6,7,null
+120,-0.128,51.5078,-1,"The Verve at Raw Club (June 8, 1995)","London, UK",,,1995-06-08,1995,6,8,null
+121,-2.54677,51.1897,-1,Glastonbury Festival 1995,"Shepton Mallet, UK",,,1995-06-23,1995,6,23,null
+122,-0.1304708,51.515884,2000,"The Verve at Astoria (July 7, 1995)","London, UK",,,1995-07-07,1995,7,7,null
+123,-2.23149,53.464108,450,"The Verve at Manchester Academy 3 (July 8, 1995)","Manchester, UK",,,1995-07-08,1995,7,8,null
+124,-1.6038477,54.972137,-1,"The Verve at Riverside 1 (July 13, 1995)","Newcastle Upon Tyne, UK",,,1995-07-13,1995,7,13,null
+125,-4.66667,55.6,-1,"Oasis with The Verve at Irvine Beach (July 14, 1995)","Irvine, UK",,,1995-07-14,1995,7,14,null
+126,-0.6954709,51.83164,-1,Phoenix Festival 1995,"Long Marston, UK",,,1995-07-14,1995,7,14,null
+127,-4.247,55.86,-1,T In The Park 1995,"Glasgow, UK",,,1995-08-04,1995,8,4,null
+128,-0.2239576,51.493904,-1,"The Verve at Hammersmith Palais (June 19, 1997)","London, UK",,,1997-06-19,1997,6,19,null
+129,-1.4648403,53.376324,900,"The Verve at The Leadmill (August 9, 1997)","Sheffield, UK",,,1997-08-09,1997,8,9,null
+130,-4.2369184,55.855057,1900,"The Verve at Barrowland Ballroom (August 10, 1997)","Glasgow, UK",,,1997-08-10,1997,8,10,null
+131,-2.23149,53.464108,1500,"The Verve at Manchester Academy (August 11, 1997)","Manchester, UK",,,1997-08-11,1997,8,11,null
+132,-2.1299286,52.586216,4000,"The Verve at The Civic Hall (August 13, 1997)","Wolverhampton, UK",,,1997-08-13,1997,8,13,null
+133,-0.2239576,51.493904,-1,"The Verve at Hammersmith Palais (August 14, 1997)","London, UK",,,1997-08-14,1997,8,14,null
+134,-0.969,51.454,-1,Reading Festival 1997,"Reading, UK",,,1997-08-22,1997,8,22,null
+135,-0.1965816,51.490677,19000,"Oasis with The Verve at Earls Court (September 25, 1997)","London, UK",,,1997-09-25,1997,9,25,null
+136,-0.1965816,51.490677,19000,"Oasis with The Verve at Earls Court (September 26, 1997)","London, UK",,,1997-09-26,1997,9,26,null
+137,-0.1965816,51.490677,19000,"Oasis with The Verve at Earls Court (September 27, 1997)","London, UK",,,1997-09-27,1997,9,27,null
+138,-0.128,51.5078,-1,"The Verve, Jewel, Rickie Lee Jones, UB40, and 1 more… at Later with Jools Holland (November 1, 1997)","London, UK",,,1997-11-01,1997,11,1,null
+139,-4.2369184,55.855057,1900,"The Verve at Barrowland Ballroom (January 9, 1998)","Glasgow, UK",,,1998-01-09,1998,1,9,null
+140,-4.2369184,55.855057,1900,"The Verve at Barrowland Ballroom (January 10, 1998)","Glasgow, UK",,,1998-01-10,1998,1,10,null
+141,-4.2369184,55.855057,1900,"The Verve at Barrowland Ballroom (January 11, 1998)","Glasgow, UK",,,1998-01-11,1998,1,11,null
+142,-2.206175,53.460663,7000,"The Verve at O2 Apollo Manchester (January 13, 1998)","Manchester, UK",,,1998-01-13,1998,1,13,null
+143,-2.206175,53.460663,7000,"The Verve at O2 Apollo Manchester (January 14, 1998)","Manchester, UK",,,1998-01-14,1998,1,14,null
+144,-0.1148897,51.465122,4921,"The Verve at O2 Academy Brixton (January 16, 1998)","London, UK",,,1998-01-16,1998,1,16,null
+145,-0.1148897,51.465122,4921,"The Verve at O2 Academy Brixton (January 17, 1998)","London, UK",,,1998-01-17,1998,1,17,null
+146,-0.1148897,51.465122,4921,"The Verve at O2 Academy Brixton (February 9, 1998)","London, UK",,,1998-02-09,1998,2,9,null
+147,-2.6001475,53.5756,-1,"The Verve with Beck and John Martyn at Haigh Hall and Country Park (May 24, 1998)","Wigan, UK",,,1998-05-24,1998,5,24,null
+148,0.4522177,51.718914,-1,V Festival 1998,"Chelmsford, UK",,,1998-08-15,1998,8,15,null
+149,-1.548,53.797,-1,V Festival 1998,"Leeds, UK",,,1998-08-22,1998,8,22,null
+150,-1.548,53.797,-1,v98 1998,"Leeds, UK",,,1998-08-22,1998,8,22,null
+151,-4.259961,55.849842,2500,"The Verve at O2 Academy Glasgow (November 2, 2007)","Glasgow, UK",,,2007-11-02,2007,11,2,19:30:00
+152,-4.259961,55.849842,2500,"The Verve at O2 Academy Glasgow (November 3, 2007)","Glasgow, UK",,,2007-11-03,2007,11,3,19:30:00
+153,-3.05435,53.817284,-1,"The Verve at Blackpool Winter Gardens (November 5, 2007)","Blackpool, UK",,,2007-11-05,2007,11,5,19:30:00
+154,-3.05,53.8167,-1,"The Verve at Empress Ballroom (November 5, 2007)","Blackpool, UK",,,2007-11-05,2007,11,5,11:11:11
+155,-3.05435,53.817284,-1,"The Verve at Blackpool Winter Gardens (November 6, 2007)","Blackpool, UK",,,2007-11-06,2007,11,6,19:30:00
+156,-3.05,53.8167,-1,"The Verve at Empress Ballroom (November 6, 2007)","Blackpool, UK",,,2007-11-06,2007,11,6,11:11:11
+157,-0.1491962,51.542953,3000,"The Verve at Roundhouse (November 8, 2007)","London, UK",,,2007-11-08,2007,11,8,19:30:00
+158,-0.1491962,51.542953,3000,"The Verve at Roundhouse (November 9, 2007)","London, UK",,,2007-11-09,2007,11,9,19:30:00
+159,-1.147,52.954,10000,"The Verve with Reverend and The Makers at Capital FM Arena (December 11, 2007)","Nottingham, UK",,,2007-12-11,2007,12,11,11:11:11
+160,0.0051303,51.49693,20000,"The Verve with Richard Ashcroft and Reverend and The Makers at The O2 Arena (December 13, 2007)","London, UK",,,2007-12-13,2007,12,13,19:00:00
+161,-4.2809606,55.860603,-1,"The Verve with Bjorn Again and Seating at Scottish Exhibition and Conference Centre (December 15, 2007)","Glasgow, UK",,,2007-12-15,2007,12,15,18:30:00
+162,-5.915621,54.60381,-1,"The Verve at Odyssey Arena (December 17, 2007)","Belfast, UK",,,2007-12-17,2007,12,17,19:00:00
+163,-2.3037128,53.39997,-1,"The Verve with The Coral at Manchester Central (GMEX) (December 20, 2007)","Manchester, UK",,,2007-12-20,2007,12,20,19:00:00
+164,-2.3037128,53.39997,-1,"The Verve at Manchester Central (GMEX) (December 21, 2007)","Manchester, UK",,,2007-12-21,2007,12,21,19:00:00
+165,-2.587,51.1663,-1,Glastonbury Festival 2008,"Pilton, UK",,,2008-06-25,2008,6,25,null
+166,-4.737621,50.361286,-1,"The Verve at Eden Project (June 27, 2008)","St. Austell, UK",,,2008-06-27,2008,6,27,null
+167,-3.42677,56.2075,-1,T In The Park 2008,"Kinross, UK",,,2008-07-11,2008,7,11,20:00:00
+168,-3.4229,56.20613,-1,Haight Ashbury Festival 2008,"Kinross, UK",,,2008-07-11,2008,7,11,null
+169,-2.02817,52.8248,-1,V Festival 2008,"Staffordshire, UK",,,2008-08-16,2008,8,16,12:00:00
+170,0.4522177,51.718914,-1,V Festival 2008,"Chelmsford, UK",,,2008-08-16,2008,8,16,null
