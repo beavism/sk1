@@ -1,0 +1,316 @@
+"OBJECTID,N,9,0","id,N,9,0","xcoord,N,19,11","ycoord,N,19,11","venueSize,N,9,0","gigName,C,254","locationNa,C,254","billing,C,254","headlineAr,C,254","date,D","year,N,9,0","month,N,9,0","day,N,9,0","time,C,254",XBNG,YBNG
+1,0,-3.939,51.627,-1,"Electric Six with LITTLE NIKITA and Kasabian at Patti Pavilion (September 5, 2003)","Swansea, UK",,,05/09/03,2003,9,5,null,265881.6977,193801.6995
+2,1,-2.593,51.453,1601,"The Cooper Temple Clause with The Raveonettes and Kasabian at O2 Academy Bristol (November 16, 2003)","Bristol, UK",,,16/11/03,2003,11,16,null,358891.4843,172835.5527
+3,2,1.2490275,52.62884,1500,"The Cooper Temple Clause with Kasabian and The Raveonettes at Norwich UEA LCR (November 17, 2003)","Norwich, UK",,,17/11/03,2003,11,17,null,619981.2896,308409.7477
+4,3,-1.0919461,50.780563,-1,"The Cooper Temple Clause with Kasabian and The Raveonettes at Pyramids Centre (November 21, 2003)","Portsmouth, UK",,,21/11/03,2003,11,21,null,464115.5341,98280.2128
+5,4,-0.2238407,51.503506,2000,"The Cooper Temple Clause with The Raveonettes and Kasabian at O2 Shepherd's Bush Empire (November 22, 2003)","London, UK",,,22/11/03,2003,11,22,null,523374.4489,179780.9506
+6,5,-1.8998971,52.474327,3000,"The Cooper Temple Clause with The Raveonettes and Kasabian at O2 Academy Birmingham (November 23, 2003)","Birmingham, UK",,,23/11/03,2003,11,23,null,406896.471,286270.8479
+7,6,-1.5487168,53.802944,-1,"The Cooper Temple Clause with Kasabian and The Raveonettes at Leeds Metropolitan University, Student Union (November 24, 2003)","Leeds, UK",,,24/11/03,2003,11,24,null,429819.2903,434166.0179
+8,7,-0.0884474,51.52857,-1,"Kasabian with The Koreans at Fortress Studio (November 28, 2003)","London, UK",,,28/11/03,2003,11,28,null,532698.1258,182804.8544
+9,8,1.2878587,52.631435,290,"Chikinki and Kasabian at Norwich Arts Centre (January 19, 2004)","Norwich, UK",,,19/01/04,2004,1,19,null,622595.3391,308817.5097
+10,9,0.19,52.176,-1,"Kasabian and Chikinki at The Boat Race (January 20, 2004)","Cambridge, UK",,,20/01/04,2004,1,20,null,549846.6799,255343.1158
+11,10,-0.8904272,52.242805,-1,"Chikinki and Kasabian at The Soundhaus (January 21, 2004)","Northampton, UK",,,21/01/04,2004,1,21,null,475857.9553,261093.024
+12,11,-3.10472,51.0211,-1,"Kasabian at Mamba (January 22, 2004)","Taunton, UK",,,22/01/04,2004,1,22,null,322612.5704,125217.3509
+13,12,-1.1454736,52.63116,-1,"Kasabian and Chikinki at Sumo (January 23, 2004)","Leicester, UK",,,23/01/04,2004,1,23,null,457933.3282,304054.2981
+14,13,-1.5030988,52.412834,-1,"Chikinki with Kasabian and The Hearing at Kasbah (January 24, 2004)","Coventry, UK",,,24/01/04,2004,1,24,null,433895.735,279542.0324
+15,14,-1.322272,51.066895,-1,"Kasabian and Chikinki at The Railway Inn (January 25, 2004)","Winchester, UK",,,25/01/04,2004,1,25,null,447585.0984,129947.4291
+16,15,-2.1242282,52.587673,-1,"Chikinki and Kasabian at The Little Civic (January 26, 2004)","Wolverhampton, UK",,,26/01/04,2004,1,26,null,391680.6146,298881.6175
+17,16,-1.46433,52.91655,-1,"Chikinki and Kasabian at The Victoria Inn (January 27, 2004)","Derby, UK",,,27/01/04,2004,1,27,null,436116.4116,335592.9306
+18,17,-1.4725945,53.378445,-1,"Kasabian and Chikinki at Fez Club (January 30, 2004)","Sheffield, UK",,,30/01/04,2004,1,30,null,435182.4024,386973.0236
+19,18,-1.379,54.907,-1,"Kasabian and Chikinki at Bar 36 (January 31, 2004)","Sunderland, UK",,,31/01/04,2004,1,31,null,439915.2287,557096.8016
+20,19,-1.8263936,52.6823,-1,"Kasabian and Chikinki at Lichfield Garrick Main Theatre (February 1, 2004)","Lichfield, UK",,,01/02/04,2004,2,1,null,411833.5786,309414.5705
+21,20,-0.1148897,51.465122,4921,"Black Rebel Motorcycle Club with The Cooper Temple Clause and Kasabian at O2 Academy Brixton (February 6, 2004)","London, UK",,,06/02/04,2004,2,6,null,531045.7189,175701.6561
+22,21,-1.546665,53.794292,-1,"Kasabian and Black Rebel Motorcycle Club at Blank Canvas (February 14, 2004)","Leeds, UK",,,14/02/04,2004,2,14,null,429960.5645,433204.2656
+23,22,-1.1458642,52.953705,-1,"Kasabian and Chikinki at The Bodega Social Club (February 16, 2004)","Nottingham, UK",,,16/02/04,2004,2,16,null,457480.9986,339933.189
+24,23,-0.2261179,52.57942,-1,"Kasabian and Chikinki at The Park (February 17, 2004)","Peterborough, UK",,,17/02/04,2004,2,17,null,520295.069,299433.7943
+25,24,-0.128,51.5078,-1,"Kasabian at Death Disco (February 18, 2004)","London, UK",,,18/02/04,2004,2,18,null,530013.7302,180424.2206
+26,25,-2.9720056,53.403793,-1,"Kasabian at Academy 3 (February 23, 2004)","Liverpool, UK",,,23/02/04,2004,2,23,null,335474.9427,390103.9172
+27,26,-1.2206911,51.73873,1020,"Kasabian and Chikinki at O2 Academy Oxford (February 25, 2004)","Oxford, UK",,,25/02/04,2004,2,25,null,453908.7988,204734.237
+28,27,-2.9387968,54.896336,320,"Chikinki and Kasabian at The Brickyard (February 26, 2004)","Carlisle, UK",,,26/02/04,2004,2,26,null,339888.9564,556137.4837
+29,28,-4.2653494,55.8625,300,"Kasabian at King Tut's Wah Wah Hut (February 27, 2004)","Glasgow, UK",,,27/02/04,2004,2,27,null,258321.7681,665578.2436
+30,29,-1.2317138,54.57606,-1,"Kasabian at The Empire Middlesbrough (February 28, 2004)","Middlesbrough, UK",,,28/02/04,2004,2,28,null,449761.83,520365.361
+31,30,-3.1771,51.478,-1,"Kasabian at Unknown venue (March 1, 2004)","Cardiff, UK",,,01/03/04,2004,3,1,null,318350.4357,176106.3257
+32,31,-2.2352781,53.4826,200,"Kasabian at Night & Day CafÚ (March 2, 2004)","Manchester, UK",,,02/03/04,2004,3,2,null,384484.008,398456.9424
+33,32,-0.1346288,50.827057,-1,"Chikinki and Kasabian at The Pressure Point (March 4, 2004)","Brighton, UK",,,04/03/04,2004,3,4,null,531473.8755,104715.4191
+34,33,-2.596749,51.4475,-1,"Kasabian at The Louisiana (March 5, 2004)","Bristol, UK",,,05/03/04,2004,3,5,null,358625.9991,172225.9903
+35,34,-1.8890387,52.451,-1,"Chikinki with Kasabian and My Dad Hitla at The Jug of Ale (March 6, 2004)","Birmingham, UK",,,06/03/04,2004,3,6,null,407637.9985,283677.1473
+36,35,-1.3965323,50.904526,150,"Kasabian at The Joiners (March 7, 2004)","Southampton, UK",,,07/03/04,2004,3,7,null,442529.4006,111845.8677
+37,36,-0.138,50.839,-1,"Kasabian at Tavern Club (March 28, 2004)","Brighton, UK",,,28/03/04,2004,3,28,null,531202.9935,106037.3973
+38,37,-0.1346985,51.5064,350,"Kasabian at Institute of Contemporary Arts (ICA) (March 29, 2004)","London, UK",,,29/03/04,2004,3,29,null,529552.8579,180256.6674
+39,38,-0.1059202,51.534584,800,"Lender with Kasabian at O2 Academy Islington (March 30, 2004)","London, UK",,,30/03/04,2004,3,30,null,531468.8506,183442.1131
+40,39,-0.1346985,51.5064,350,"Kasabian at Institute of Contemporary Arts (ICA) (April 19, 2004)","London, UK",,,19/04/04,2004,4,19,null,529552.8579,180256.6674
+41,40,-2.6088538,51.457504,-1,"Kasabian at The Anson Rooms, University of Bristol (April 20, 2004)","Bristol, UK",,,20/04/04,2004,4,20,null,357794.0433,173345.5026
+42,41,-1.546665,53.794292,-1,"Kasabian at Blank Canvas (April 21, 2004)","Leeds, UK",,,21/04/04,2004,4,21,null,429960.5645,433204.2656
+43,42,-0.1223438,50.817112,600,"The Von Bondies with Kasabian at Concorde 2 (April 22, 2004)","Brighton, UK",,,22/04/04,2004,4,22,null,532367.1397,103631.5311
+44,43,-2.979,53.402,-1,"The Von Bondies with Kasabian and The Waxwings at University Academy 4 (April 24, 2004)","Liverpool, UK",,,24/04/04,2004,4,24,null,335007.2054,389910.8081
+45,44,-4.2687564,55.866146,-1,"The Von Bondies with Kasabian at The Garage (April 25, 2004)","Glasgow, UK",,,25/04/04,2004,4,25,null,258121.8871,665990.9051
+46,45,-2.23149,53.464108,-1,"Kasabian at The Hop & Grape University of Manchester (April 26, 2004)","Manchester, UK",,,26/04/04,2004,4,26,null,384728.7049,396398.8156
+47,46,-1.0919461,50.780563,-1,"The Von Bondies with ImaRobot and Kasabian at Pyramids Centre (April 29, 2004)","Portsmouth, UK",,,29/04/04,2004,4,29,null,464115.5341,98280.2128
+48,47,-0.1304708,51.515884,2000,"Kasabian at Astoria (April 30, 2004)","London, UK",,,30/04/04,2004,4,30,null,529819.3053,181318.8073
+49,48,-0.1510835,51.5434,200,"The Von Bondies with Kasabian at The Barfly (May 1, 2004)","London, UK",,,01/05/04,2004,5,1,null,528311.8227,184342.3655
+50,49,-1.1397076,52.621628,-1,"Kasabian at The Half-time Orange (May 8, 2004)","Leicester, UK",,,08/05/04,2004,5,8,null,458336.2248,302998.6489
+51,50,-1.4648403,53.376324,900,"Black Rebel Motorcycle Club and Kasabian at The Leadmill (May 9, 2004)","Sheffield, UK",,,09/05/04,2004,5,9,null,435700.0049,386740.8979
+52,51,-2.701,53.757,-1,"Black Rebel Motorcycle Club with Kasabian at Mill (May 11, 2004)","Preston, UK",,,11/05/04,2004,5,11,null,353879.103,429188.1607
+53,52,-1.16278,54.5728,-1,"Razorlight, Kasabian, and Electric Six at Middlesbrough Music Live (May 31, 2004)","Middlesbrough, UK",,,31/05/04,2004,5,31,null,454222.1023,520053.4797
+54,53,-1.16278,54.5728,-1,Middlesbrough Music Live 2004,"Middlesbrough, UK",,,31/05/04,2004,5,31,null,454222.1023,520053.4797
+55,54,-0.1417947,50.81998,-1,"Kasabian at Zap Club (June 1, 2004)","Brighton, UK",,,01/06/04,2004,6,1,null,530989.0067,103915.7987
+56,55,-0.1351725,51.516098,350,"Kasabian at 100 Club (June 2, 2004)","London, UK",,,02/06/04,2004,6,2,null,529492.4838,181334.2816
+57,56,-1.147,52.954,350,"Kasabian at Unknown venue (June 3, 2004)","Nottingham, UK",,,03/06/04,2004,6,3,null,457404.3034,339965.098
+58,57,-1.9187133,52.48265,-1,"Kasabian at National Indoor Arena (June 7, 2004)","Birmingham, UK",,,07/06/04,2004,6,7,null,405617.3501,287195.0584
+59,58,-1.4648403,53.376324,900,"Kasabian at The Leadmill (June 8, 2004)","Sheffield, UK",,,08/06/04,2004,6,8,null,435700.0049,386740.8979
+60,59,-4.2687564,55.866146,-1,"Kasabian at G2 (June 9, 2004)","Glasgow, UK",,,09/06/04,2004,6,9,null,258121.8871,665990.9051
+61,60,-3.1726308,51.478806,7500,"Kasabian at Motorpoint Arena Cardiff (June 10, 2004)","Cardiff, UK",,,10/06/04,2004,6,10,null,318662.2347,176190.9809
+62,61,-1.548,53.797,500,"Kasabian at The Cockpit (June 11, 2004)","Leeds, UK",,,11/06/04,2004,6,11,null,429870.7064,433504.9945
+63,62,-1.507,52.41,500,Godiva Festival 2004,"Coventry, UK",,,12/06/04,2004,6,12,null,433632.5291,279224.9829
+64,63,-2.2338095,53.481056,200,"Kasabian at The Roadhouse (June 13, 2004)","Manchester, UK",,,13/06/04,2004,6,13,null,384580.9025,398284.8455
+65,64,-1.8998971,52.474327,600,"The Eighties Matchbox B-line Disaster with Kasabian and Yourcodenameis:Milo at O2 Academy 2 Birmingham (June 14, 2004)","Birmingham, UK",,,14/06/04,2004,6,14,null,406896.471,286270.8479
+66,65,-0.2252653,51.490875,5039,"Kasabian at Hammersmith Apollo (June 18, 2004)","London, UK",,,18/06/04,2004,6,18,null,523309.633,178373.9272
+67,66,-3.1937246,55.948612,-1,"Kasabian at The Liquid Room (June 20, 2004)","Edinburgh, UK",,,20/06/04,2004,6,20,null,325549.4974,673485.3068
+68,67,-3.04215,51.1617,-1,Orbital Glastonbury Festival 2004,"Somerset, UK",,,23/06/04,2004,6,23,null,327222.4369,140788.825
+69,68,-0.2252653,51.490875,5039,"Black Rebel Motorcycle Club with The Rapture, The Stills, and Kasabian at Hammersmith Apollo (June 24, 2004)","London, UK",,,24/06/04,2004,6,24,null,523309.633,178373.9272
+70,69,-2.587,51.1663,5039,Glastonbury Festival 2004,"Pilton, UK",,,25/06/04,2004,6,25,null,359053.3059,140947.8021
+71,70,-1.8998971,52.474327,600,"Kasabian at O2 Academy 2 Birmingham (June 28, 2004)","Birmingham, UK",,,28/06/04,2004,6,28,null,406896.471,286270.8479
+72,71,-1.611,54.973,-1,"Kasabian at Bulletproof (July 9, 2004)","Newcastle Upon Tyne, UK",,,09/07/04,2004,7,9,null,424999.19,564334.0805
+73,72,-3.4229,56.20613,-1,T In The Park 2004,"Kinross, UK",,,10/07/04,2004,7,10,null,311829.1492,702415.1027
+74,73,-1.147,52.954,-1,"Kasabian at Unknown venue (July 19, 2004)","Nottingham, UK",,,19/07/04,2004,7,19,null,457404.3034,339965.098
+75,74,-1.1535577,52.95704,450,"Kasabian at Rescue Rooms (July 19, 2004)","Nottingham, UK",,,19/07/04,2004,7,19,null,456959.7597,340298.0567
+76,75,-2.7493646,52.71224,-1,"Kasabian at Club Severn (July 20, 2004)","Shrewsbury, UK",,,20/07/04,2004,7,20,null,349472.15,312994.5605
+77,76,-0.3484804,53.753735,-1,"Kasabian at The Welly (July 22, 2004)","Hull, UK",,,22/07/04,2004,7,22,null,508990.5365,429862.1224
+78,77,-3.939,51.627,-1,"Kasabian at Escape (July 23, 2004)","Swansea, UK",,,23/07/04,2004,7,23,null,265881.6977,193801.6995
+79,78,-2.1133318,53.540092,-1,"Kasabian with Mad Action and Tides at The Castle (July 24, 2004)","Oldham, UK",,,24/07/04,2004,7,24,null,392586.7473,404833.3755
+80,79,-2.9746492,56.460106,-1,"Kasabian at Westport Bar (July 26, 2004)","Dundee, UK",,,26/07/04,2004,7,26,null,340035.4221,730199.089
+81,80,-1.0780809,53.95925,200,"Kasabian with Mad Action at Fibbers (July 27, 2004)","York, UK",,,27/07/04,2004,7,27,null,460589.0037,451855.8284
+82,81,-1.075723,50.786644,-1,"Kasabian with Mad Action at Wedgewood Rooms (July 28, 2004)","Southsea, UK",,,28/07/04,2004,7,28,null,465250.8184,98970.5855
+83,82,0.5773906,50.85517,-1,"Kasabian with Mad Action at The Crypt (July 30, 2004)","Hastings, UK",,,30/07/04,2004,7,30,null,581506.2281,109348.7132
+84,83,-0.1510835,51.5434,200,"Kasabian with Kealer and Pellumair at The Barfly (August 12, 2004)","London, UK",,,12/08/04,2004,8,12,null,528311.8227,184342.3655
+85,84,-1.128,52.634,200,Summer Sundae 2004,"Leicester, UK",,,13/08/04,2004,8,13,null,459112.1363,304384.3625
+86,85,-1.1192095,52.62653,-1,Summer Sundae 2004,"Leicester, UK",,,13/08/04,2004,8,13,null,459717.1951,303560.6704
+87,86,0.4522177,51.718914,-1,"Scissor Sisters, Pink, and Muse with The Killers and 15 moreà at Hylands Park (August 21, 2004)","Chelmsford, UK",,,21/08/04,2004,8,21,null,569488.1423,205088.7443
+88,87,0.4522177,51.718914,-1,V Festival 2004,"Chelmsford, UK",,,21/08/04,2004,8,21,null,569488.1423,205088.7443
+89,88,0.4522177,51.718914,-1,"Kasabian at Hylands Park (August 22, 2004)","Chelmsford, UK",,,22/08/04,2004,8,22,null,569488.1423,205088.7443
+90,89,-0.9831782,51.46432,-1,Reading Festival 2004,"Reading, UK",,,27/08/04,2004,8,27,null,470733.3472,174417.6488
+91,90,-1.39181,53.9332,-1,Leeds Festival 2004,"Wetherby, UK",,,27/08/04,2004,8,27,null,440028.9484,448735.2911
+92,91,-0.969,51.454,-1,"Kasabian at Carling Weekend (August 27, 2004)","Reading, UK",,,27/08/04,2004,8,27,null,471734.4079,173283.7085
+93,92,-1.548,53.797,-1,"Kasabian at Carling Weekend (August 28, 2004)","Leeds, UK",,,28/08/04,2004,8,28,null,429870.7064,433504.9945
+94,93,-4.2653494,55.8625,300,"Kasabian at King Tut's Wah Wah Hut (September 7, 2004)","Glasgow, UK",,,07/09/04,2004,9,7,null,258321.7681,665578.2436
+95,94,-2.23149,53.464108,450,"Kasabian at Manchester Academy 3 (September 8, 2004)","Manchester, UK",,,08/09/04,2004,9,8,null,384728.7049,396398.8156
+96,95,-0.1379306,51.51614,-1,"Kasabian with Trap2 at HMV Oxford Street (September 9, 2004)","London, UK",,,09/09/04,2004,9,9,null,529301.0022,181334.0793
+97,96,-1.8941518,52.478756,-1,"Kasabian with Trap 2 at The Irish Centre (September 10, 2004)","Birmingham, UK",,,10/09/04,2004,9,10,null,407285.9981,286764.063
+98,97,-1.12483,52.623302,-1,"Kasabian with Trap2 at Leicester University Student Union (September 11, 2004)","Leicester, UK",,,11/09/04,2004,9,11,null,459341.1125,303196.9734
+99,98,-2.1771865,53.025253,400,"Kasabian with Agent Blue and The Tonics at The Sugarmill (September 12, 2004)","Stoke On Trent, UK",,,12/09/04,2004,9,12,null,388212.7876,347566.0739
+100,99,-1.907,52.478,-1,"Kasabian at One Big Weekend (September 19, 2004)","Birmingham, UK",,,19/09/04,2004,9,19,null,406413.4851,286678.7715
+101,100,-1.1376497,53.52085,200,"Kasabian at Leopard (September 29, 2004)","Doncaster, UK",,,29/09/04,2004,9,29,null,457272.3047,403032.3682
+102,101,-0.1059202,51.534584,800,"Kasabian at O2 Academy Islington (October 11, 2004)","London, UK",,,11/10/04,2004,10,11,null,531468.8506,183442.1131
+103,102,-2.6,53.3833,-1,"Kasabian at Parr Hall (October 12, 2004)","Warrington, UK",,,12/10/04,2004,10,12,null,360187.7085,387551.5549
+104,103,-2.2399013,53.482044,-1,"Kasabian at HMV Records (October 12, 2004)","Manchester, UK",,,12/10/04,2004,10,12,null,384176.9973,398396.1089
+105,104,-3.1937246,55.948612,-1,"Kasabian at The Liquid Room (October 13, 2004)","Edinburgh, UK",,,13/10/04,2004,10,13,null,325549.4974,673485.3068
+106,105,-1.4648403,53.376324,900,"Kasabian at The Leadmill (October 15, 2004)","Sheffield, UK",,,15/10/04,2004,10,15,null,435700.0049,386740.8979
+107,106,-1.546665,53.794292,-1,"Kasabian with Trap 2 at Blank Canvas (October 16, 2004)","Leeds, UK",,,16/10/04,2004,10,16,null,429960.5645,433204.2656
+108,107,-0.1304708,51.515884,2000,"Kasabian with Trap2 and Sister at Astoria (October 19, 2004)","London, UK",,,19/10/04,2004,10,19,null,529819.3053,181318.8073
+109,108,-0.3714517,53.769314,-1,"Kasabian at Hull University Student Union (November 25, 2004)","Hull, UK",,,25/11/04,2004,11,25,null,507436.3104,431560.2558
+110,109,-0.2252653,51.490875,5039,"Kasabian and The Departure at Hammersmith Apollo (December 5, 2004)","London, UK",,,05/12/04,2004,12,5,null,523309.633,178373.9272
+111,110,-0.2252653,51.490875,5039,XFM Winter Wonderland 2004,"London, UK",,,05/12/04,2004,12,5,null,523309.633,178373.9272
+112,111,-2.9658353,53.40502,-1,"Kasabian with The Dead 60s at Liverpool University Guild of Students (Mountford Hall & Stanley Theatre) (December 6, 2004)","Liverpool, UK",,,06/12/04,2004,12,6,null,335887.0035,390234.8471
+113,112,-4.2369184,55.855057,1900,"Kasabian at Barrowland Ballroom (December 7, 2004)","Glasgow, UK",,,07/12/04,2004,12,7,null,260074.0055,664692.196
+114,113,-2.23149,53.464108,1500,"Kasabian at Manchester Academy (December 9, 2004)","Manchester, UK",,,09/12/04,2004,12,9,null,384728.7049,396398.8156
+115,114,-3.1790237,51.487686,-1,"Kasabian with The Dead 60s at Great Hall, Cardiff University (December 10, 2004)","Cardiff, UK",,,10/12/04,2004,12,10,null,318234.1941,177185.6653
+116,115,-1.4055136,50.907608,1749,"Kasabian at Southampton Guildhall (December 11, 2004)","Southampton, UK",,,11/12/04,2004,12,11,null,441895.1236,112183.4769
+117,116,-1.1535941,52.955887,2000,"Kasabian at Rock City (December 13, 2004)","Nottingham, UK",,,13/12/04,2004,12,13,null,456958.8264,340169.7671
+118,117,-1.8998971,52.474327,3000,"Kasabian at O2 Academy Birmingham (December 14, 2004)","Birmingham, UK",,,14/12/04,2004,12,14,null,406896.471,286270.8479
+119,118,-0.1148897,51.465122,4921,"Kasabian with The Dead 60s and Trap2 at O2 Academy Brixton (December 15, 2004)","London, UK",,,15/12/04,2004,12,15,null,531045.7189,175701.6561
+120,119,-0.1148897,51.465122,4921,"Kasabian with The Rakes and Goldie Lookin Chain at O2 Academy Brixton (February 10, 2005)","London, UK",,,10/02/05,2005,2,10,null,531045.7189,175701.6561
+121,120,-4.259961,55.849842,2500,"Kasabian with The Duke Spirit and El Presidente at O2 Academy Glasgow (April 22, 2005)","Glasgow, UK",,,22/04/05,2005,4,22,null,258612.9293,664158.8111
+122,121,-2.206175,53.460663,7000,"Kasabian with The Duke Spirit at O2 Apollo Manchester (April 24, 2005)","Manchester, UK",,,24/04/05,2005,4,24,null,386408.2669,396010.3834
+123,122,-2.206175,53.460663,7000,"Kasabian at O2 Apollo Manchester (April 25, 2005)","Manchester, UK",,,25/04/05,2005,4,25,null,386408.2669,396010.3834
+124,123,-2.206175,53.460663,7000,"Kasabian with The Duke Spirit and El Presidente at O2 Apollo Manchester (April 26, 2005)","Manchester, UK",,,26/04/05,2005,4,26,null,386408.2669,396010.3834
+125,124,-0.1331833,51.590786,10250,"Kasabian with The Duke Spirit and El Presidente at Alexandra Palace (April 28, 2005)","London, UK",,,28/04/05,2005,4,28,null,529418.5127,189643.4258
+126,125,-0.1488263,50.82128,-1,"Kasabian with The Duke Spirit and El Presidente at Brighton Centre (April 29, 2005)","Brighton, UK",,,29/04/05,2005,4,29,null,530490.112,104047.9181
+127,126,-1.379,54.907,-1,Radio One's Big Weekend 2005,"Sunderland, UK",,,07/05/05,2005,5,7,null,439915.2287,557096.8016
+128,127,-2.587,51.1663,7701,Glastonbury Festival 2005,"Pilton, UK",,,24/06/05,2005,6,24,null,359053.3059,140947.8021
+129,128,-2.593,51.453,1601,"Kasabian at O2 Academy Bristol (June 24, 2005)","Bristol, UK",,,24/06/05,2005,6,24,null,358891.4843,172835.5527
+130,129,-0.128,51.5078,1601,Wireless Festival 2005,"London, UK",,,24/06/05,2005,6,24,null,530013.7302,180424.2206
+131,130,-1.147,52.954,10000,"Kasabian at Capital FM Arena (June 29, 2005)","Nottingham, UK",,,29/06/05,2005,6,29,null,457404.3034,339965.098
+132,131,-3.4229,56.20613,-1,T In The Park 2005,"Kinross, UK",,,09/07/05,2005,7,9,null,311829.1492,702415.1027
+133,132,-0.1304708,51.515884,2000,"Kasabian with Louie and Trap2 at Astoria (August 25, 2005)","London, UK",,,25/08/05,2005,8,25,null,529819.3053,181318.8073
+134,133,-1.548,53.797,2000,Leeds Festival 2005,"Leeds, UK",,,26/08/05,2005,8,26,null,429870.7064,433504.9945
+135,134,-0.969,51.454,2000,Reading Festival 2005,"Reading, UK",,,26/08/05,2005,8,26,null,471734.4079,173283.7085
+136,135,-3.42677,56.2075,-1,T In The Park 2006,"Kinross, UK",,,08/07/06,2006,7,8,null,311592.2497,702572.5347
+137,136,-3.2488115,55.92827,-1,"Kasabian with Kharma 45 at Edinburgh Corn Exchange (August 14, 2006)","Edinburgh, UK",,,14/08/06,2006,8,14,null,322068.5871,671282.227
+138,137,-0.1148897,51.465122,4921,"Kasabian with The Fratellis at O2 Academy Brixton (August 15, 2006)","London, UK",,,15/08/06,2006,8,15,null,531045.7189,175701.6561
+139,138,0.4522177,51.718914,-1,"Kasabian and Radiohead with Beck, Bloc Party, and 42 moreà at Hylands Park (August 19, 2006)","Chelmsford, UK",,,19/08/06,2006,8,19,null,569488.1423,205088.7443
+140,139,0.483333,51.7333,-1,V Festival 2006,"Chelmsford, UK",,,19/08/06,2006,8,19,null,571582.7195,206761.1148
+141,140,-2.02817,52.8248,-1,V Festival 2006,"Staffordshire, UK",,,19/08/06,2006,8,19,12:00:00,398198.9655,325252.6083
+142,141,-2.1,52.8,-1,"Kasabian at Stafford V2006 (August 20, 2006)","Stafford, UK",,,20/08/06,2006,8,20,null,393354.9488,322498.1513
+143,142,-0.138338,51.53462,1410,"Kasabian at KOKO (September 12, 2006)","London, UK",,,12/09/06,2006,9,12,null,529220.4499,183388.4078
+144,143,-0.1491962,51.542953,3000,"Kasabian with Guillemots and BBC Concert Orchestra at Roundhouse (October 28, 2006)","London, UK",,,28/10/06,2006,10,28,null,528443.947,184295.9665
+145,144,-0.1028893,51.544327,800,"Oasis and Noel Gallagher with Kasabian and Shack at Union Chapel (November 26, 2006)","London, UK",,,26/11/06,2006,11,26,null,531650.9577,184531.0163
+146,145,-1.1192095,52.62653,-1,"Kasabian with The Fratellis at De Montfort Hall (December 5, 2006)","Leicester, UK",,,05/12/06,2006,12,5,null,459717.1951,303560.6704
+147,146,-1.1192095,52.62653,-1,"Kasabian with The Fratellis at De Montfort Hall (December 6, 2006)","Leicester, UK",,,06/12/06,2006,12,6,null,459717.1951,303560.6704
+148,147,-4.2809606,55.860603,-1,"The Fratellis and Kasabian at Scottish Exhibition and Conference Centre (December 7, 2006)","Glasgow, UK",,,07/12/06,2006,12,7,null,257337.9738,665399.2708
+149,148,-0.128,51.5078,-1,XFM Winter Wonderland 2006,"London, UK",,,09/12/06,2006,12,9,null,530013.7302,180424.2206
+150,149,-1.5572104,53.807632,2100,"Kasabian at The Refectory, Leeds University (December 10, 2006)","Leeds, UK",,,10/12/06,2006,12,10,null,429256.65,434684.0807
+151,150,-2.243345,53.487312,21000,"Kasabian with The Fratellis at Phones 4U Arena (December 11, 2006)","Manchester, UK",,,11/12/06,2006,12,11,null,383950.4681,398982.9696
+152,151,-3.1726308,51.478806,7500,"Kasabian with The Fratellis at Motorpoint Arena Cardiff (December 12, 2006)","Cardiff, UK",,,12/12/06,2006,12,12,null,318662.2347,176190.9809
+153,152,-1.7289522,52.451088,15700,"Kasabian and The Fratellis at LG Arena (December 14, 2006)","Birmingham, UK",,,14/12/06,2006,12,14,null,418517.5069,283715.6512
+154,153,-1.147,52.954,10000,"Kasabian with The Fratellis at Capital FM Arena (December 15, 2006)","Nottingham, UK",,,15/12/06,2006,12,15,null,457404.3034,339965.098
+155,154,-0.1488263,50.82128,-1,"Kasabian with The Fratellis at Brighton Centre (December 16, 2006)","Brighton, UK",,,16/12/06,2006,12,16,null,530490.112,104047.9181
+156,155,-1.8791888,50.71766,-1,"Kasabian with The Fratellis at Bournemouth International Centre (December 18, 2006)","Bournemouth, UK",,,18/12/06,2006,12,18,null,408625.18,90899.3831
+157,156,-0.1965816,51.490677,19000,"Kasabian with The Fratellis at Earls Court (December 19, 2006)","London, UK",,,19/12/06,2006,12,19,null,525301.4284,178400.5714
+158,157,-1.624028,54.963074,-1,"Kasabian at Metro Radio Arena (December 21, 2006)","Newcastle Upon Tyne, UK",,,21/12/06,2006,12,21,null,424171.1609,563224.9504
+159,158,-1.4168171,53.400543,13500,"Kasabian with The Fratellis at Motorpoint Arena (December 22, 2006)","Sheffield, UK",,,22/12/06,2006,12,22,null,438872.8136,389460.291
+160,159,-0.2239576,51.493904,-1,"Kasabian with The Enemy and The Hours at Hammersmith Palais (February 13, 2007)","London, UK",,,13/02/07,2007,2,13,null,523392.2432,178712.9671
+161,160,-0.2239576,51.493904,-1,"Kasabian with The Killers, Kaiser Chiefs, Primal Scream, and 1 moreà at Hammersmith Palais (March 1, 2007)","London, UK",,,01/03/07,2007,3,1,null,523392.2432,178712.9671
+162,161,-1.4168171,53.400543,13500,"Kasabian at Motorpoint Arena (March 7, 2007)","Sheffield, UK",,,07/03/07,2007,3,7,null,438872.8136,389460.291
+163,162,-0.1781517,51.500786,5544,"Kasabian with The Bees (UK) and The Lea Shores at Royal Albert Hall (March 29, 2007)","London, UK",,,29/03/07,2007,3,29,null,526552.8755,179556.4107
+164,163,-2.701,53.757,-1,"Kasabian at Moor Park (May 19, 2007)","Preston, UK",,,19/05/07,2007,5,19,null,353879.103,429188.1607
+165,164,-2.701,53.757,-1,Radio One's Big Weekend 2007,"Preston, UK",,,19/05/07,2007,5,19,null,353879.103,429188.1607
+166,165,-4.2282815,57.480923,-1,"Kasabian at Ironworks (May 24, 2007)","Inverness, UK",,,24/05/07,2007,5,24,null,266496.8781,845600.0273
+167,166,-1.2810427,50.710255,-1,Isle of Wight Festival 2007,"Newport, UK",,,08/06/07,2007,6,8,null,450860.033,90315.3286
+168,167,-2.587,51.1663,-1,Glastonbury Festival 2007,"Pilton, UK",,,20/06/07,2007,6,20,null,359053.3059,140947.8021
+169,168,-2.9934728,51.58761,-1,"Kasabian at Newport Centre (June 21, 2007)","Newport, UK",,,21/06/07,2007,6,21,null,331268.0543,188107.386
+170,169,-3.4229,56.20613,-1,T In The Park 2007,"Kinross, UK",,,06/07/07,2007,7,6,null,311829.1492,702415.1027
+171,170,-0.128,51.5078,-1,Live Earth 2007,"London, UK",,,07/07/07,2007,7,7,null,530013.7302,180424.2206
+172,171,-0.1183185,51.511604,-1,"Kasabian at Somerset House (July 13, 2007)","London, UK",,,13/07/07,2007,7,13,null,530674.6976,180864.4669
+173,172,-1.1285425,52.63448,1300,"Kasabian at Athena (July 26, 2007)","Leicester, UK",,,26/07/07,2007,7,26,null,459074.7765,304437.3113
+174,173,-0.1346985,51.5064,350,"Kasabian with The Dead 60s at Institute of Contemporary Arts (ICA) (July 31, 2007)","London, UK",,,31/07/07,2007,7,31,null,529552.8579,180256.6674
+175,174,-2.02817,52.8248,-1,V Festival 2007,"Staffordshire, UK",,,18/08/07,2007,8,18,12:00:00,398198.9655,325252.6083
+176,175,-5.928,54.599,-1,"The Killers with The Shins, Kasabian, Justice, and 9 moreà at Ormeau Park (August 22, 2007)","Belfast, UK",,,22/08/07,2007,8,22,null,146387.6358,529741.3049
+177,176,-2.13317,49.2128,-1,Jersey Live Festival 2007,"Jersey, Channel Islands, UK",,,01/09/07,2007,9,1,null,390396.6116,-76420.0328
+178,177,1.2490275,52.62884,1500,"Kasabian at Norwich UEA LCR (September 4, 2007)","Norwich, UK",,,04/09/07,2007,9,4,null,619981.2896,308409.7477
+179,178,-0.1054884,53.566902,-1,"Kasabian at Auditorium (September 5, 2007)","Grimsby, UK",,,05/09/07,2007,9,5,null,525564.2604,409478.8093
+180,179,-4.2637663,55.865444,-1,"Kasabian at O2 ABC (September 6, 2007)","Glasgow, UK",,,06/09/07,2007,9,6,null,258431.5463,665902.568
+181,180,-0.1024779,51.519554,1600,London Freshers Festival 2007,"London, UK",,,10/10/07,2007,10,10,null,531750.9323,181776.9125
+182,181,-3.1982138,55.951797,-1,"Ft with Kasabian at Princes Street Gardens (December 31, 2007)","Edinburgh, UK",,,31/12/07,2007,12,31,22:00:00,325275.3029,673844.6175
+183,182,-2.98333,51.5833,-1,Isle of Wight Festival 2008,"Newport, UK",,,13/06/08,2008,6,13,00:00:00,331964.292,187618.5498
+184,183,-0.533333,53.2333,-1,"Kasabian with Jersey Budd and Twisted Wheel at Engine Shed (August 15, 2008)","Lincoln, UK",,,15/08/08,2008,8,15,19:00:00,497994.3859,371699.5297
+185,184,-2.9336703,54.898655,-1,"Kasabian at Sands Centre (August 16, 2008)","Carlisle, UK",,,16/08/08,2008,8,16,19:00:00,340221.1725,556391.1346
+186,185,-2.1299286,52.586216,4000,"Kasabian with The Junipers and Jersey Budd at The Civic Hall (August 21, 2008)","Wolverhampton, UK",,,21/08/08,2008,8,21,19:00:00,391294.1205,298720.2267
+187,186,-2.1299286,52.586216,4000,"Kasabian with The Junipers and Jersey Budd at The Civic Hall (August 22, 2008)","Wolverhampton, UK",,,22/08/08,2008,8,22,19:00:00,391294.1205,298720.2267
+188,187,-2.75648,54.0793,4000,Creamfields 2008,"Halton, UK",,,24/08/08,2008,8,24,11:00:00,350604.0303,465084.5678
+189,188,-1.6169438,54.97002,-1,"Kasabian with Jersey Budd at O2 Academy 2 Newcastle (August 28, 2008)","Newcastle Upon Tyne, UK",,,28/08/08,2008,8,28,19:30:00,424620.5244,564000.3655
+190,189,-5.07556,56.2302,-1,Connect Festival 2008,"Inveraray, UK",,,29/08/08,2008,8,29,12:00:00,209453.6426,708438.7686
+191,190,-0.1028893,51.544327,800,"Glasvegas with Kasabian, Razorlight, Stereophonics, and 3 moreà at Union Chapel (November 8, 2008)","London, UK",,,08/11/08,2008,11,8,null,531650.9577,184531.0163
+192,191,-0.1028893,51.544327,800,"Kasabian with Reverend and The Makers, The Hours, and Fight Like Apes at Union Chapel (November 14, 2008)","London, UK",,,14/11/08,2008,11,14,null,531650.9577,184531.0163
+193,192,1.3867056,51.39151,-1,"Kasabian at Winter Gardens (March 23, 2009)","Margate, UK",,,23/03/09,2009,3,23,null,635711.4517,171273.4246
+194,193,-2.7091732,53.763897,-1,"Kasabian with The Hours at 53 Degrees - University Of Central Lancashire Student Union (March 24, 2009)","Preston, UK",,,24/03/09,2009,3,24,19:30:00,353347.898,429960.8491
+195,194,-1.5473124,53.8018,2700,"Kasabian with The Hours at O2 Academy Leeds (March 25, 2009)","Leeds, UK",,,25/03/09,2009,3,25,19:00:00,429912.5952,434039.326
+196,195,-0.1781517,51.500786,5544,"Kasabian with The Hours and Jersey Budd at Royal Albert Hall (March 27, 2009)","London, UK",,,27/03/09,2009,3,27,19:30:00,526552.8755,179556.4107
+197,196,-0.1781517,51.500786,5544,The Hours Festival 2009,"London, UK",,,27/03/09,2009,3,27,null,526552.8755,179556.4107
+198,197,-0.128,51.5078,5544,Camden Crawl 2009,"London, UK",,,25/04/09,2009,4,25,12:00:00,530013.7302,180424.2206
+199,198,-0.1379306,51.51614,-1,"Kasabian at HMV Oxford Street (May 6, 2009)","London, UK",,,06/05/09,2009,5,6,null,529301.0022,181334.0793
+200,199,-1.774,51.557,-1,BBC Radio 1's Big Weekend 2009,"Swindon, UK",,,09/05/09,2009,5,9,null,415764.8041,184259.3153
+201,200,-1.774,51.557,-1,"Franz Ferdinand with Snow Patrol, The Prodigy, Kasabian, and 61 moreà at Lydiard Park (May 9, 2009)","Swindon, UK",,,09/05/09,2009,5,9,null,415764.8041,184259.3153
+202,201,-0.138,50.839,-1,The Great Escape 2009,"Brighton, UK",,,14/05/09,2009,5,14,null,531202.9935,106037.3973
+203,202,-0.137163,50.82253,-1,"Kasabian with Lightspeed Champion, Little Boots, British Sea Power, and 22 moreà at At Various Brighton Venues (May 14, 2009)","Brighton, UK",,,14/05/09,2009,5,14,19:00:00,531308.0948,104207.5512
+204,203,-0.1415366,50.824757,-1,"Kasabian at Brighton Dome (May 16, 2009)","Brighton, UK",,,16/05/09,2009,5,16,18:00:00,530993.8277,104447.4194
+205,204,-1.1192095,52.62653,-1,"Kasabian with The Hours and Jersey Budd at De Montfort Hall (May 29, 2009)","Leicester, UK",,,29/05/09,2009,5,29,19:00:00,459717.1951,303560.6704
+206,205,-1.1192095,52.62653,-1,"Kasabian at De Montfort Hall (May 30, 2009)","Leicester, UK",,,30/05/09,2009,5,30,19:00:00,459717.1951,303560.6704
+207,206,-1.1192095,52.62653,-1,"Kasabian with The Hours and Jersey Budd at De Montfort Hall (May 31, 2009)","Leicester, UK",,,31/05/09,2009,5,31,19:00:00,459717.1951,303560.6704
+208,207,-1.1192095,52.62653,-1,The Hours Festival 2009,"Leicester, UK",,,31/05/09,2009,5,31,null,459717.1951,303560.6704
+209,208,-2.2550611,53.533894,-1,"Oasis with Kasabian, Twisted Wheel, The Enemy, and 1 moreà at Heaton Park (June 4, 2009)","Manchester, UK",,,04/06/09,2009,6,4,14:00:00,383191.6239,404168.1386
+210,209,-2.2550611,53.533894,-1,"Oasis with Kasabian, The Enemy, Twisted Wheel, and 1 moreà at Heaton Park (June 6, 2009)","Manchester, UK",,,06/06/09,2009,6,6,14:00:00,383191.6239,404168.1386
+211,210,-2.2550611,53.533894,-1,"Oasis with Kasabian, The Enemy, Twisted Wheel, and 1 moreà at Heaton Park (June 7, 2009)","Manchester, UK",,,07/06/09,2009,6,7,14:00:00,383191.6239,404168.1386
+212,211,-2.2399013,53.482044,-1,"Kasabian at HMV Records (June 8, 2009)","Manchester, UK",,,08/06/09,2009,6,8,null,384176.9973,398396.1089
+213,212,-1.630738,54.97193,2000,"Kasabian at O2 Academy Newcastle (June 9, 2009)","Newcastle Upon Tyne, UK",,,09/06/09,2009,6,9,19:00:00,423736.3312,564208.1681
+214,213,-1.3849416,54.91406,-1,"Oasis with Kasabian and The Enemy at Stadium Of Light (June 10, 2009)","Sunderland, UK",,,10/06/09,2009,6,10,15:30:00,439527.3728,557879.0668
+215,214,-3.178682,51.478798,-1,"Oasis with Kasabian, The Enemy, and The Peth at Cardiff Millennium Stadium (June 12, 2009)","Cardiff, UK",,,12/06/09,2009,6,12,15:30:00,318242.0027,176196.8397
+216,215,-1.7894864,51.568615,-1,"Kasabian and The Hours at Oasis Leisure Centre (June 13, 2009)","Swindon, UK",,,13/06/09,2009,6,13,19:00:00,414687.4494,185547.9087
+217,216,-0.1995781,54.0773,-1,"Kasabian with The Hours at Bridlington Spa (June 14, 2009)","Bridlington, UK",,,14/06/09,2009,6,14,19:00:00,517893.2341,466095.7808
+218,217,-2.9692166,56.460613,-1,"Kasabian with The Hours at Caird Hall (June 16, 2009)","Dundee, UK",,,16/06/09,2009,6,16,19:00:00,340370.9923,730250.7843
+219,218,-3.235843,55.943424,-1,"Oasis with Kasabian, The Enemy, and Reverend and The Makers at Murrayfield Stadium (June 17, 2009)","Edinburgh, UK",,,17/06/09,2009,6,17,16:00:00,322909.0007,672954.1544
+220,219,-4.259961,55.849842,2500,"Kasabian with The Hours at O2 Academy Glasgow (June 18, 2009)","Glasgow, UK",,,18/06/09,2009,6,18,19:00:00,258612.9293,664158.8111
+221,220,-5.928,54.599,-1,"Kasabian at St George's Market (June 22, 2009)","Belfast, UK",,,22/06/09,2009,6,22,19:00:00,146387.6358,529741.3049
+222,221,-2.587,51.1663,-1,Glastonbury Festival 2009,"Pilton, UK",,,24/06/09,2009,6,24,00:00:00,359053.3059,140947.8021
+223,222,-1.1535941,52.955887,2000,"Kasabian with The Hours at Rock City (June 24, 2009)","Nottingham, UK",,,24/06/09,2009,6,24,19:00:00,456958.8264,340169.7671
+224,223,-2.9658353,53.40502,-1,"Kasabian at Liverpool University Guild of Students (Mountford Hall & Stanley Theatre) (June 25, 2009)","Liverpool, UK",,,25/06/09,2009,6,25,19:00:00,335887.0035,390234.8471
+225,224,-1.4673119,53.378937,2350,"Kasabian with The Hours at O2 Academy Sheffield (June 29, 2009)","Sheffield, UK",,,29/06/09,2009,6,29,19:00:00,435533.4098,387030.367
+226,225,-2.23149,53.464108,1500,"Kasabian with The Hours at Manchester Academy (June 30, 2009)","Manchester, UK",,,30/06/09,2009,6,30,19:00:00,384728.7049,396398.8156
+227,226,-1.4055136,50.907608,1749,"Kasabian at Southampton Guildhall (July 2, 2009)","Southampton, UK",,,02/07/09,2009,7,2,19:00:00,441895.1236,112183.4769
+228,227,-2.9934728,51.58761,-1,"Kasabian and The Hours at Newport Centre (July 3, 2009)","Newport, UK",,,03/07/09,2009,7,3,19:00:00,331268.0543,188107.386
+229,228,-4.737621,50.361286,-1,"Kasabian with The Hours at Eden Project (July 4, 2009)","St. Austell, UK",,,04/07/09,2009,7,4,19:30:00,205381.1463,54848.4748
+230,229,-1.0930138,50.796375,-1,"Kasabian and The Hours at Portsmouth Guildhall (July 6, 2009)","Portsmouth, UK",,,06/07/09,2009,7,6,19:00:00,464018.6996,100037.5868
+231,230,0.1194611,52.20439,1800,"Kasabian with The Hours at Corn Exchange Cambridge (July 7, 2009)","Cambridge, UK",,,07/07/09,2009,7,7,19:00:00,544931.5587,258357.0779
+232,231,-0.128,51.5078,105000,"Oasis with Kasabian, The Enemy, and Reverend and The Makers at Wembley Stadium (July 9, 2009)","London, UK",,,09/07/09,2009,7,9,16:00:00,530013.7302,180424.2206
+233,232,-0.128,51.5078,105000,iTunes Festival 2009,"London, UK",,,10/07/09,2009,7,10,null,530013.7302,180424.2206
+234,233,-0.128,51.5078,105000,"Oasis with Kasabian and Reverend and The Makers at Wembley Stadium (July 11, 2009)","London, UK",,,11/07/09,2009,7,11,20:00:00,530013.7302,180424.2206
+235,234,-0.128,51.5078,105000,"Oasis with Kasabian, The Enemy, and Reverend and The Makers at Wembley Stadium (July 12, 2009)","London, UK",,,12/07/09,2009,7,12,16:00:00,530013.7302,180424.2206
+236,235,-0.1148897,51.465122,4921,"Kasabian with The Hours and Dark Horses at O2 Academy Brixton (July 16, 2009)","London, UK",,,16/07/09,2009,7,16,19:00:00,531045.7189,175701.6561
+237,236,-0.1148897,51.465122,4921,"Kasabian with The Hours and Dark Horses at O2 Academy Brixton (July 17, 2009)","London, UK",,,17/07/09,2009,7,17,19:00:00,531045.7189,175701.6561
+238,237,-0.1491962,51.542953,3000,"Kasabian with Twisted Wheel at Roundhouse (July 22, 2009)","London, UK",,,22/07/09,2009,7,22,null,528443.947,184295.9665
+239,238,-0.1491962,51.542953,3000,iTunes Festival 2009,"London, UK",,,31/07/09,2009,7,31,18:00:00,528443.947,184295.9665
+240,239,-2.1299286,52.586216,4000,"Kasabian with Dead Horses at The Civic Hall (August 24, 2009)","Wolverhampton, UK",,,24/08/09,2009,8,24,19:00:00,391294.1205,298720.2267
+241,240,-2.1299286,52.586216,4000,"Kasabian at The Civic Hall (August 25, 2009)","Wolverhampton, UK",,,25/08/09,2009,8,25,19:00:00,391294.1205,298720.2267
+242,241,-0.141771,51.552048,2350,"Q Awards with Kasabian at The Forum (October 21, 2009)","London, UK",,,21/10/09,2009,10,21,19:30:00,528933.1269,185320.4222
+243,242,-1.624028,54.963074,-1,"Kasabian with Reverend and The Makers at Metro Radio Arena (November 9, 2009)","Newcastle Upon Tyne, UK",,,09/11/09,2009,11,9,null,424171.1609,563224.9504
+244,243,-1.624028,54.963074,-1,"Kasabian at Metro Radio Arena (November 10, 2009)","Newcastle Upon Tyne, UK",,,10/11/09,2009,11,10,19:00:00,424171.1609,563224.9504
+245,244,-2.11,57.1526,-1,"Kasabian at Aberdeen Exhibition & Conference Centre (November 11, 2009)","Aberdeen, UK",,,11/11/09,2009,11,11,21:00:00,393443.8758,806863.5164
+246,245,-4.2809606,55.860603,-1,"Kasabian with Reverend and The Makers at Scottish Exhibition and Conference Centre (November 12, 2009)","Glasgow, UK",,,12/11/09,2009,11,12,19:00:00,257337.9738,665399.2708
+247,246,-0.2827842,51.5577,12500,"Kasabian with Reverend and The Makers and Dark Horses at Wembley Arena (November 14, 2009)","London, UK",,,14/11/09,2009,11,14,19:00:00,519142.1997,185710.0266
+248,247,-0.2827842,51.5577,12500,"Kasabian with Dark Horses and Reverend and The Makers at Wembley Arena (November 15, 2009)","London, UK",,,15/11/09,2009,11,15,19:00:00,519142.1997,185710.0266
+249,248,-2.9857597,53.396877,11000,"Kasabian with Reverend and The Makers at Echo Arena (November 16, 2009)","Liverpool, UK",,,16/11/09,2009,11,16,19:00:00,334549.9152,389347.0742
+250,249,-1.147,52.954,10000,"Kasabian with Reverend and The Makers at Capital FM Arena (November 18, 2009)","Nottingham, UK",,,18/11/09,2009,11,18,18:30:00,457404.3034,339965.098
+251,250,-1.9187133,52.48265,-1,"Kasabian with Reverend and The Makers and Dark Horses at National Indoor Arena (November 19, 2009)","Birmingham, UK",,,19/11/09,2009,11,19,00:00:00,405617.3501,287195.0584
+252,251,-2.243345,53.487312,21000,"Kasabian with Reverend and The Makers at Phones 4U Arena (November 20, 2009)","Manchester, UK",,,20/11/09,2009,11,20,19:00:00,383950.4681,398982.9696
+253,252,-0.1965816,51.490677,19000,"JLS, Florence and the Machine, Sugababes, Kasabian, and 11 moreà at Earls Court (November 21, 2009)","London, UK",,,21/11/09,2009,11,21,null,525301.4284,178400.5714
+254,253,-3.1726308,51.478806,7500,"Kasabian with Reverend and The Makers at Motorpoint Arena Cardiff (November 22, 2009)","Cardiff, UK",,,22/11/09,2009,11,22,19:00:00,318662.2347,176190.9809
+255,254,-1.4168171,53.400543,13500,"Kasabian with Reverend and The Makers at Motorpoint Arena (November 23, 2009)","Sheffield, UK",,,23/11/09,2009,11,23,19:00:00,438872.8136,389460.291
+256,255,-1.8791888,50.71766,-1,"Kasabian with Reverend and The Makers at Bournemouth International Centre (November 25, 2009)","Bournemouth, UK",,,25/11/09,2009,11,25,19:00:00,408625.18,90899.3831
+257,256,-0.1965816,51.490677,19000,"Kasabian, The Saturdays, N-Dubz, Tinchy Stryder, and 5 moreà at Earls Court (November 29, 2009)","London, UK",,,29/11/09,2009,11,29,11:00:00,525301.4284,178400.5714
+258,257,-0.1233569,51.50775,1000,"Kasabian with Delphic and Crystal Fighters at Heaven (December 2, 2009)","London, UK",,,02/12/09,2009,12,2,null,530336.0788,180426.9121
+259,258,-0.2252653,51.490875,5039,"Kasabian with The Cribs and Friendly Fires at Hammersmith Apollo (December 10, 2009)","London, UK",,,10/12/09,2009,12,10,19:00:00,523309.633,178373.9272
+260,259,-0.2238407,51.503506,2000,"Kasabian with Calvin Harris and La Roux at O2 Shepherd's Bush Empire (February 16, 2010)","London, UK",,,16/02/10,2010,2,16,21:00:00,523374.4489,179780.9506
+261,260,-0.1965816,51.490677,19000,"Robbie Williams with Lady Gaga, Kasabian, Lily Allen, and 5 moreà at Earls Court (February 16, 2010)","London, UK",,,16/02/10,2010,2,16,null,525301.4284,178400.5714
+262,261,-3.42677,56.2075,-1,T In The Park 2010,"Kinross, UK",,,09/07/10,2010,7,9,19:30:00,311592.2497,702572.5347
+263,262,-3.4229,56.20613,-1,T In The Park 2010,"Kinross, UK",,,10/07/10,2010,7,10,null,311829.1492,702415.1027
+264,263,-5.928,54.599,-1,"Kasabian with Belsonic at Custom House Square Belfast (August 17, 2010)","Belfast, UK",,,17/08/10,2010,8,17,19:30:00,146387.6358,529741.3049
+265,264,-0.1148897,51.465122,4921,"Kasabian with Dark Horses at O2 Academy Brixton (August 19, 2010)","London, UK",,,19/08/10,2010,8,19,19:00:00,531045.7189,175701.6561
+266,265,0.4522177,51.718914,-1,V Festival 2010,"Chelmsford, UK",,,20/08/10,2010,8,20,12:00:00,569488.1423,205088.7443
+267,266,-1.4673119,53.378937,2350,"Kasabian with Modern Faces at O2 Academy Sheffield (June 4, 2011)","Sheffield, UK",,,04/06/11,2011,6,4,19:00:00,435533.4098,387030.367
+268,267,-1.5473124,53.8018,2700,"Propaganda Residents and Kasabian at O2 Academy Leeds (June 5, 2011)","Leeds, UK",,,05/06/11,2011,6,5,19:00:00,429912.5952,434039.326
+269,268,-2.1299286,52.586216,4000,"Kasabian with Penguins at The Civic Hall (June 7, 2011)","Wolverhampton, UK",,,07/06/11,2011,6,7,19:00:00,391294.1205,298720.2267
+270,269,-2.206175,53.460663,7000,"Kasabian with Modern Faces at O2 Apollo Manchester (June 8, 2011)","Manchester, UK",,,08/06/11,2011,6,8,19:00:00,386408.2669,396010.3834
+271,270,-2.98333,51.5833,7000,Isle of Wight Festival 2011,"Newport, UK",,,10/06/11,2011,6,10,16:00:00,331964.292,187618.5498
+272,271,-4.23333,57.4667,7000,Rockness 2011,"Inverness, UK",,,10/06/11,2011,6,10,15:00:00,266142.1928,844027.071
+273,272,-2.243345,53.487312,21000,"Kasabian at Phones 4U Arena (July 12, 2011)","Manchester, UK",,,12/07/11,2011,7,12,null,383950.4681,398982.9696
+274,273,-0.128,51.5078,21000,iTunes Festival 2011,"London, UK",,,29/07/11,2011,7,29,null,530013.7302,180424.2206
+275,274,-1.128,52.634,-1,"Kasabian at Bruntingthorpe Aeroground (September 5, 2011)","Leicester, UK",,,05/09/11,2011,9,5,null,459112.1363,304384.3625
+276,275,-0.138338,51.53462,1410,"Kasabian at KOKO (September 8, 2011)","London, UK",,,08/09/11,2011,9,8,null,529220.4499,183388.4078
+277,276,-1.12483,52.623302,1450,"Kasabian at O2 Academy (October 26, 2011)","Leicester, UK",,,26/10/11,2011,10,26,22:30:00,459341.1125,303196.9734
+278,277,-5.915621,54.60381,-1,"Kasabian with Miles Kane at Odyssey Arena (November 25, 2011)","Belfast, UK",,,25/11/11,2011,11,25,18:30:00,147216.6288,530231.4655
+279,278,-0.1488263,50.82128,-1,"Kasabian with Miles Kane at Brighton Centre (November 28, 2011)","Brighton, UK",,,28/11/11,2011,11,28,19:30:00,530490.112,104047.9181
+280,279,-3.1726308,51.478806,7500,"Kasabian with Miles Kane at Motorpoint Arena Cardiff (November 30, 2011)","Cardiff, UK",,,30/11/11,2011,11,30,19:30:00,318662.2347,176190.9809
+281,280,-1.147,52.954,10000,"Kasabian with Miles Kane and Me at Capital FM Arena (December 2, 2011)","Nottingham, UK",,,02/12/11,2011,12,2,19:00:00,457404.3034,339965.098
+282,281,-1.147,52.954,10000,"Kasabian with Miles Kane and DJ Dan at Capital FM Arena (December 3, 2011)","Nottingham, UK",,,03/12/11,2011,12,3,19:30:00,457404.3034,339965.098
+283,282,-2.9857597,53.396877,11000,"Kasabian with Miles Kane at Echo Arena (December 4, 2011)","Liverpool, UK",,,04/12/11,2011,12,4,19:30:00,334549.9152,389347.0742
+284,283,-1.9187133,52.48265,-1,"Kasabian with Miles Kane and Various Cruelties at National Indoor Arena (December 6, 2011)","Birmingham, UK",,,06/12/11,2011,12,6,19:30:00,405617.3501,287195.0584
+285,284,-2.243345,53.487312,21000,"Kasabian with Miles Kane and Various Cruelties at Phones 4U Arena (December 7, 2011)","Manchester, UK",,,07/12/11,2011,12,7,19:30:00,383950.4681,398982.9696
+286,285,-1.624028,54.963074,-1,"Kasabian with Miles Kane at Metro Radio Arena (December 8, 2011)","Newcastle Upon Tyne, UK",,,08/12/11,2011,12,8,19:30:00,424171.1609,563224.9504
+287,286,-1.4168171,53.400543,13500,"Kasabian with Miles Kane and DJ Dan at Motorpoint Arena (December 10, 2011)","Sheffield, UK",,,10/12/11,2011,12,10,19:30:00,438872.8136,389460.291
+288,287,-4.2809606,55.860603,-1,"Kasabian with Miles Kane at Scottish Exhibition and Conference Centre (December 11, 2011)","Glasgow, UK",,,11/12/11,2011,12,11,19:30:00,257337.9738,665399.2708
+289,288,-2.11,57.1526,-1,"Kasabian with Miles Kane at Aberdeen Exhibition & Conference Centre (December 12, 2011)","Aberdeen, UK",,,12/12/11,2011,12,12,18:30:00,393443.8758,806863.5164
+290,289,0.0051303,51.49693,20000,"Kasabian with Miles Kane at The O2 Arena (December 14, 2011)","London, UK",,,14/12/11,2011,12,14,19:00:00,539285.2916,179460.1717
+291,290,0.0051303,51.49693,20000,"Kasabian with Miles Kane, Penguins, and DJ Dan at The O2 Arena (December 15, 2011)","London, UK",,,15/12/11,2011,12,15,19:00:00,539285.2916,179460.1717
+292,291,0.0051303,51.49693,20000,"Kasabian with Chase & Status and Zane Lowe at The O2 Arena (December 31, 2011)","London, UK",,,31/12/11,2011,12,31,null,539285.2916,179460.1717
+293,292,-0.1148897,51.465122,4921,"Noel Gallagher's High Flying Birds and Pulp with The Horrors, Florence and the Machine, and 2 moreà at O2 Academy Brixton (February 29, 2012)","London, UK",,,29/02/12,2012,2,29,19:00:00,531045.7189,175701.6561
+294,293,-0.0292531,51.55167,-1,Radio 1's Hackney Weekend 2012,"London, UK",,,23/06/12,2012,6,23,null,536734.781,185482.5662
+295,294,-3.42677,56.2075,-1,T In The Park 2012,"Kinross, UK",,,06/07/12,2012,7,6,12:00:00,311592.2497,702572.5347
+296,295,-0.1148897,51.465122,4921,"Kasabian with Band of Skulls and KAV at O2 Academy Brixton (August 20, 2012)","London, UK",,,20/08/12,2012,8,20,19:00:00,531045.7189,175701.6561
+297,296,-0.9831782,51.46432,-1,Reading Festival 2012,"Reading, UK",,,24/08/12,2012,8,24,11:00:00,470733.3472,174417.6488
+298,297,-1.3818431,53.86807,-1,Leeds Festival 2012,"Leeds, UK",,,24/08/12,2012,8,24,12:00:00,440746.4723,441494.5887
+299,298,-0.2827842,51.5577,12500,"Doc Brown with Nicole Scherzinger, Noel Gallagher, Kasabian, and 5 moreà at Wembley Arena (March 6, 2013)","London, UK",,,06/03/13,2013,3,6,19:30:00,519142.1997,185710.0266
+300,299,-1.0821246,53.50391,-1,"Kasabian with Jersey Budd and Temples at The Dome (March 19, 2013)","Doncaster, UK",,,19/03/13,2013,3,19,19:00:00,460977.8641,401193.7598
+301,300,-4.152859,50.367966,-1,"Kasabian with Jersey Budd and Temples at Plymouth Pavilions (March 20, 2013)","Plymouth, UK",,,20/03/13,2013,3,20,19:00:00,246990.0923,54223.4016
+302,301,-0.1781517,51.500786,5544,"Kasabian with Dark Horses at Royal Albert Hall (March 22, 2013)","London, UK",,,22/03/13,2013,3,22,19:30:00,526552.8755,179556.4107
+303,302,-0.1997649,54.07704,-1,"Kasabian with Temples at The Spa Bridlington (June 26, 2013)","Bridlington, UK",,,26/06/13,2013,6,26,19:00:00,517881.7498,466066.5452
+304,303,-0.128,51.5078,-1,Hard Rock Calling 2013,"London, UK",,,29/06/13,2013,6,29,14:00:00,530013.7302,180424.2206
+305,304,-0.128,51.5078,-1,"Kasabian with Paul Weller, Miles Kane, The Cribs, and 1 moreà at Queen Elizabeth Olympic Park (June 29, 2013)","London, UK",,,29/06/13,2013,6,29,13:00:00,530013.7302,180424.2206
+306,305,0.516667,51.2667,-1,"Kasabian, St. Vincent, Brian Eno and Karl Hyde, Natalie Merchant, and 2 moreà at Maidstone TV Studios (May 13, 2014)","Maidstone, UK",,,13/05/14,2014,5,13,null,575668.6725,154957.5678
+307,306,-7.3230586,54.996407,-1,"Kasabian at Nerve Centre (May 18, 2014)","Derry, UK",,,18/05/14,2014,5,18,20:00:00,59717.0564,579837.974
+308,307,-4.53333,55.6333,-1,"Kasabian at Grand Hall, Kilmarnock (May 20, 2014)","Kilmarnock, UK",,,20/05/14,2014,5,20,19:00:00,240621.4194,640659.9167
+309,308,-3.4573834,56.06954,-1,"Kasabian with Fool's Gold at Alhambra Theatre (May 22, 2014)","Dunfermline, UK",,,22/05/14,2014,5,22,19:00:00,309368.9519,687258.7719
+310,309,-4.242629,55.853603,-1,Radio 1's Big Weekend 2014,"Glasgow, UK",,,23/05/14,2014,5,23,null,259711.3624,664541.9848
+311,310,-2.9692166,56.460613,-1,"Kasabian at Caird Hall (May 23, 2014)","Dundee, UK",,,23/05/14,2014,5,23,19:00:00,340370.9923,730250.7843
+312,311,-4.152859,50.367966,-1,"Kasabian at Plymouth Pavilions (June 17, 2014)","Plymouth, UK",,,17/06/14,2014,6,17,19:00:00,246990.0923,54223.4016
+313,312,-0.2238407,51.503506,2000,"Kasabian at O2 Shepherd's Bush Empire (June 18, 2014)","London, UK",,,18/06/14,2014,6,18,19:00:00,523374.4489,179780.9506
+314,313,-1.1397592,52.63688,-1,"Kasabian at Victoria Park (June 21, 2014)","Leicester, UK",,,21/06/14,2014,6,21,null,458312.4933,304695.1599
+315,314,-1.128,52.634,-1,"Kasabian with Jagwar Ma, Zane Lowe, and Beardyman at Victoria Park, Leicester (June 21, 2014)","Leicester, UK",,,21/06/14,2014,6,21,18:00:00,459112.1363,304384.3625

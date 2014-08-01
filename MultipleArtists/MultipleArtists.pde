@@ -1,23 +1,20 @@
-/*
-    Songkick tour data visualisation by Miki Beavis 2014.
-*/
-
 
 import com.reades.mapthing.*;
 import net.divbyzero.gpx.*;
 import net.divbyzero.gpx.parser.*;
 import java.util.*;
 ArrayList<artistHistory> gigography;
-//int venueCap;
-//String apikey = "IwmU9loDtmISJyc5";
-//String artistID = "118093";
+int northLimit = 1200000;
+int southLimit = 0;
+int eastLimit = 700000;
+int westLimit = -200000;
 String[] artists = {"Kasabian", "ArcticMonkeys", "TheLibertines"};
 float[] reds = {175, 255,255};
 float[] greens = {238,160,255};
 float[] blues = {238,122,224};
 int startYear = 2003;
-int startMonth = 8;
-int startDay = 1;
+int startMonth = 11;
+int startDay = 8;
 int endYear = 2006;
 int endMonth = 10;
 int endDay = 30;
@@ -29,26 +26,25 @@ long timeDiff = 0;
 float tIncrement = 0;
 long timeLapse = 14400000;//ms of calendar time per frame 2 hour per frame )   
 int numArtists = 2;
-BoundingBox box = new BoundingBox(62 ,  2, 49,  -11) ;
+BoundingBox box = new BoundingBox(northLimit, eastLimit, southLimit, westLimit);
 Polygons basemap;
 //PShape mapBox;
 
 
 void setup()
 {
-  size(10*modifier, 12*modifier);
-   //size(640*scaler,480*scaler);
-          //mapBox = createShape(RECT, 160, 0, 480, height);
+size((eastLimit-westLimit)/1000,(northLimit-southLimit)/1000);
+
   basemap  = new Polygons(box, dataPath("uk.shp"));
- basemap.setLocalSimplificationThreshold(0.01d);
+ basemap.setLocalSimplificationThreshold(0.5);
  
 
    calendar.set(startYear, startMonth-1, startDay,0,0,0);
   endDate.set(endYear, endMonth-1, endDay,0,0,0);
   gigography = loadPastGigs(artists);
   //frameRate(100);
-  background(0, 0,0);
-
+  background(80, 0,0);
+  // basemap.project(this);
   //image(backgroundMap, 0, 0, width, height);
 
 }
@@ -59,11 +55,11 @@ void draw(){
   noFill();
   stroke(255,255,255,50);
   strokeWeight(.25);
-   basemap.project(this);
+ basemap.project(this);
         noStroke();
         fill(0,0, 0, 3);
       //  shape(mapBox,400,240);
-        rect(160,0,width,height); //fading rectangle
+        rect(0,0,width,height); //fading rectangle
         fill(255, 255, 255); 
         rect(0,height-26, width, height);
         rect(0,10, width, 14);
@@ -83,10 +79,10 @@ void draw(){
       if(currentE.cal.getTimeInMillis()<=calendar.getTimeInMillis()){
         timeDiff = nextE.cal.getTimeInMillis() -currentE.cal.getTimeInMillis();
         float numInc = timeDiff/timeLapse;
-        float x1 = (9 + currentE.xcoord)*modifier;
-        float y1 = (61 - currentE.ycoord)*modifier;
-        float x2 = (9 + nextE.xcoord)*modifier;
-        float y2 = (61 - nextE.ycoord)*modifier;
+        float x1 = (currentE.xcoord-westLimit)/1000;
+        float y1 = (northLimit-currentE.ycoord)/1000;
+        float x2 = (nextE.xcoord-westLimit)/1000;
+        float y2 = (northLimit-nextE.ycoord)/1000;
         float xdiff = x2-x1;
         float ydiff = y2-y1;        
         strokeWeight(0.25);
@@ -144,15 +140,15 @@ ArrayList loadPastGigs(String[] a){
     h.artistName = a[i];
     h.index = 0;
     h.incrementer = 0;
-   Table table = loadTable("tableinputsk/data/"+ a[i] + ".csv", "header");
+   Table table = loadTable("data/"+ a[i] + ".csv", "header");
     ArrayList g = new ArrayList<Event>();
       for(int j = 0; j < table.getRowCount(); j++) { 
         TableRow r = table.getRow(j);
         Event e = new Event();
          e.id = j;
          e.venueSize= r.getInt("venueSize");
-         e.xcoord = r.getFloat("xcoord");
-         e.ycoord = r.getFloat("ycoord");
+         e.xcoord = r.getFloat("XBNG");
+         e.ycoord = r.getFloat("YBNG");
          e.year = r.getInt("year");
          e.month = r.getInt("month"); 
          e.day = r.getInt("day");

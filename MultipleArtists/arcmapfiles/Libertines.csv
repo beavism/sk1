@@ -1,0 +1,161 @@
+ ,"id,N,9,0","xcoord,N,19,11","ycoord,N,19,11","venueSize,N,9,0","gigName,C,254","locationNa,C,254","billing,C,254","headlineAr,C,254","date,D","year,N,9,0","month,N,9,0","day,N,9,0","time,C,254",XBNG,YBNG
+1,0,-3.1771,51.478,-1,"The Wonder Stuff with The Libertines at Cardiff University (October 21, 1988)","Cardiff, UK",,,21/10/88,1988,10,21,null,318350.4357,176106.3257
+2,1,-0.8992343,52.239994,-1,"Kirsty MacColl with The Libertines at Roadmender (May 11, 1995)","Northampton, UK",,,11/05/95,1995,5,11,null,475261.3781,260771.1997
+3,2,-1.4912771,53.381065,-1,"Kirsty MacColl with The Libertines at Octagon Centre, University of Sheffield (May 18, 1995)","Sheffield, UK",,,18/05/95,1995,5,18,null,433937.4985,387255.4863
+4,3,-1.8998971,52.474327,250,"The Strokes with The Libertines at O2 Academy 3 Birmingham (June 26, 2001)","Birmingham, UK",,,26/06/01,2001,6,26,null,406896.471,286270.8479
+5,4,-0.1888236,51.518295,-1,"The Libertines at Cherry Jam (February 21, 2002)","London, UK",,,21/02/02,2002,2,21,null,525764.0003,181485.1055
+6,5,-1.5604258,53.806282,-1,"The Strokes with The Libertines and Stereo Total at Leeds University Union (February 23, 2002)","Leeds, UK",,,23/02/02,2002,2,23,null,429045.8366,434532.5657
+7,6,-0.1335821,50.82869,-1,"The Libertines at Freebutt (March 3, 2002)","Brighton, UK",,,03/03/02,2002,3,3,null,531543.0025,104898.8568
+8,7,-0.1510835,51.5434,200,"The Vines with The Libertines at The Barfly (March 7, 2002)","London, UK",,,07/03/02,2002,3,7,null,528311.8227,184342.3655
+9,8,-1.1458642,52.953705,-1,"The Libertines and The Chemistry Experiment at The Bodega Social Club (March 8, 2002)","Nottingham, UK",,,08/03/02,2002,3,8,null,457480.9986,339933.189
+10,9,-2.596749,51.4475,-1,"The Vines with The Libertines at The Louisiana (March 9, 2002)","Bristol, UK",,,09/03/02,2002,3,9,null,358625.9991,172225.9903
+11,10,-0.1335821,50.82869,-1,"The Vines with The Libertines at Freebutt (March 12, 2002)","Brighton, UK",,,12/03/02,2002,3,12,null,531543.0025,104898.8568
+12,11,-1.5030988,52.412834,-1,"The Libertines and Six by Seven at Kasbah (April 6, 2002)","Coventry, UK",,,06/04/02,2002,4,6,null,433895.735,279542.0324
+13,12,0.4799279,51.727863,-1,"The Libertines at Army & Navy Pub (April 12, 2002)","Chelmsford, UK",,,12/04/02,2002,4,12,null,571368.1703,206148.5386
+14,13,-1.2206911,51.73873,1020,"The Libertines with The Vines at O2 Academy Oxford (April 13, 2002)","Oxford, UK",,,13/04/02,2002,4,13,null,453908.7988,204734.237
+15,14,-2.596749,51.4475,-1,"The Libertines at The Louisiana (May 13, 2002)","Bristol, UK",,,13/05/02,2002,5,13,null,358625.9991,172225.9903
+16,15,-0.0715103,51.52172,650,"The Libertines at 93 Feet East (May 14, 2002)","London, UK",,,14/05/02,2002,5,14,null,533893.0041,182073.9439
+17,16,-0.4741874,52.139168,100,"The Libertines at Esquires Bedford (May 16, 2002)","Bedford, UK",,,16/05/02,2002,5,16,null,504519.6639,250083.2378
+18,17,-0.8904272,52.242805,-1,"The Libertines at The Soundhaus (May 17, 2002)","Northampton, UK",,,17/05/02,2002,5,17,null,475857.9553,261093.024
+19,18,0.7187767,51.533085,-1,"The Libertines at Chinnery's (May 18, 2002)","Southend, UK",,,18/05/02,2002,5,18,null,588667.3022,185078.8541
+20,19,-1.8998971,52.474327,250,"The Libertines at O2 Academy 3 Birmingham (May 21, 2002)","Birmingham, UK",,,21/05/02,2002,5,21,null,406896.471,286270.8479
+21,20,-1.1458642,52.953705,-1,"The Libertines at The Bodega Social Club (May 22, 2002)","Nottingham, UK",,,22/05/02,2002,5,22,null,457480.9986,339933.189
+22,21,-0.1888236,51.518295,-1,"British Sea Power and The Libertines at Cherry Jam (May 23, 2002)","London, UK",,,23/05/02,2002,5,23,null,525764.0003,181485.1055
+23,22,-2.9791424,53.402172,-1,"The Libertines at Zanzibar (June 1, 2002)","Liverpool, UK",,,01/06/02,2002,6,1,null,334998.0006,389930.0727
+24,23,0.0831734,51.769306,-1,"The Libertines at The Square (June 2, 2002)","Harlow, UK",,,02/06/02,2002,6,2,null,543838.526,209900.3012
+25,24,-0.1346985,51.5064,350,"The Libertines at Institute of Contemporary Arts (ICA) (June 3, 2002)","London, UK",,,03/06/02,2002,6,3,null,529552.8579,180256.6674
+26,25,-3.1791074,51.48307,-1,"One Deaf Ear with The Libertines at Barfly Cardiff (June 4, 2002)","Cardiff, UK",,,04/06/02,2002,6,4,null,318220.1137,176672.4087
+27,26,-1.46433,52.91655,-1,"The Libertines at The Victoria Inn (June 5, 2002)","Derby, UK",,,05/06/02,2002,6,5,null,436116.4116,335592.9306
+28,27,-1.548,53.797,500,"The Libertines with Parva at The Cockpit (June 6, 2002)","Leeds, UK",,,06/06/02,2002,6,6,null,429870.7064,433504.9945
+29,28,-4.2551727,55.85592,-1,"The Libertines at Glasgow Barfly (June 7, 2002)","Glasgow, UK",,,07/06/02,2002,6,7,null,258934.6881,664825.307
+30,29,-1.4648403,53.376324,900,"The Libertines at The Leadmill (June 8, 2002)","Sheffield, UK",,,08/06/02,2002,6,8,null,435700.0049,386740.8979
+31,30,-1.1377037,52.631897,-1,"The Libertines with The Beatings and Circa 1983 at Princess Charlotte (June 10, 2002)","Leicester, UK",,,10/06/02,2002,6,10,null,458458.2215,304142.5382
+32,31,-2.1242282,52.587673,-1,"The Libertines at The Little Civic (June 11, 2002)","Wolverhampton, UK",,,11/06/02,2002,6,11,null,391680.6146,298881.6175
+33,32,-2.2338095,53.481056,200,"The Libertines with The Candys at The Roadhouse (June 12, 2002)","Manchester, UK",,,12/06/02,2002,6,12,null,384580.9025,398284.8455
+34,33,-3.1791074,51.48307,-1,"The Libertines at Barfly Cardiff (June 13, 2002)","Cardiff, UK",,,13/06/02,2002,6,13,null,318220.1137,176672.4087
+35,34,-0.2418083,52.56924,-1,"The Libertines at Met Lounge (June 14, 2002)","Peterborough, UK",,,14/06/02,2002,6,14,null,519259.5736,298275.5121
+36,35,-0.131284,51.516197,-1,"The Libertines at The Metro Club (June 27, 2002)","London, UK",,,27/06/02,2002,6,27,null,529761.9947,181352.1729
+37,36,-0.0741737,51.418488,-1,"Sex Pistols with ‡And You Will Know Us by the Trail of Dead, Dropkick Murphys, The Libertines, and 1 more‡ at Crystal Palace National Sports Centre (July 27, 2002)","London, UK",,,27/07/02,2002,7,27,null,534010.1523,170589.4714
+38,37,-0.9831782,51.46432,-1,Reading Festival 2002,"Reading, UK",,,23/08/02,2002,8,23,null,470733.3472,174417.6488
+39,38,-1.548,53.797,-1,Leeds Festival 2002,"Leeds, UK",,,23/08/02,2002,8,23,null,429870.7064,433504.9945
+40,39,-3.1890717,55.948532,-1,"The Libertines at La Belle Angele (September 3, 2002)","Edinburgh, UK",,,03/09/02,2002,9,3,null,325839.9056,673471.3958
+41,40,-2.0948224,57.14995,-1,"The Libertines at The Lemon Tree (September 4, 2002)","Aberdeen, UK",,,04/09/02,2002,9,4,null,394361.7211,806567.1326
+42,41,-1.2339333,54.578888,-1,"The Libertines at The Cornerhouse (September 5, 2002)","Middlesbrough, UK",,,05/09/02,2002,9,5,null,449614.9312,520678.4712
+43,42,-1.8998971,52.474327,600,"The Libertines at O2 Academy 2 Birmingham (September 6, 2002)","Birmingham, UK",,,06/09/02,2002,9,6,null,406896.471,286270.8479
+44,43,-1.1377037,52.631897,-1,"The Libertines with The Candys at Princess Charlotte (September 7, 2002)","Leicester, UK",,,07/09/02,2002,9,7,null,458458.2215,304142.5382
+45,44,-2.1771865,53.025253,400,"The Libertines at The Sugarmill (September 9, 2002)","Stoke On Trent, UK",,,09/09/02,2002,9,9,null,388212.7876,347566.0739
+46,45,-1.0780809,53.95925,200,"The Libertines at Fibbers (September 10, 2002)","York, UK",,,10/09/02,2002,9,10,null,460589.0037,451855.8284
+47,46,-0.8904272,52.242805,-1,"The Libertines at The Soundhaus (September 11, 2002)","Northampton, UK",,,11/09/02,2002,9,11,null,475857.9553,261093.024
+48,47,-0.726,52.005,-1,"The Libertines at Zaks (September 12, 2002)","Milton Keynes, UK",,,12/09/02,2002,9,12,null,487548.7186,234828.5469
+49,48,-1.548,53.797,500,"The Libertines at The Cockpit (September 13, 2002)","Leeds, UK",,,13/09/02,2002,9,13,null,429870.7064,433504.9945
+50,49,-1.5030988,52.412834,-1,"The Libertines at Kasbah (September 14, 2002)","Coventry, UK",,,14/09/02,2002,9,14,null,433895.735,279542.0324
+51,50,1.2878587,52.631435,290,"The Libertines with KILL CITY at Norwich Arts Centre (September 16, 2002)","Norwich, UK",,,16/09/02,2002,9,16,null,622595.3391,308817.5097
+52,51,0.7187767,51.533085,-1,"The Libertines at Chinnery's (September 17, 2002)","Southend, UK",,,17/09/02,2002,9,17,null,588667.3022,185078.8541
+53,52,-1.3965323,50.904526,150,"The Libertines at The Joiners (September 18, 2002)","Southampton, UK",,,18/09/02,2002,9,18,null,442529.4006,111845.8677
+54,53,-2.596749,51.4475,-1,"The Libertines at The Louisiana (September 19, 2002)","Bristol, UK",,,19/09/02,2002,9,19,null,358625.9991,172225.9903
+55,54,-3.1791074,51.48307,-1,"The Libertines at Barfly Cardiff (September 20, 2002)","Cardiff, UK",,,20/09/02,2002,9,20,null,318220.1137,176672.4087
+56,55,-3.531809,50.724533,-1,"The Libertines at Cavern Club (September 22, 2002)","Exeter, UK",,,22/09/02,2002,9,22,null,291974.0739,92776.0883
+57,56,-1.8884754,50.71993,-1,"The Libertines at Mr Smiths (September 23, 2002)","Bournemouth, UK",,,23/09/02,2002,9,23,null,407969.1979,91150.7842
+58,57,-1.2206911,51.73873,1020,"The Libertines at O2 Academy Oxford (September 25, 2002)","Oxford, UK",,,25/09/02,2002,9,25,null,453908.7988,204734.237
+59,58,-0.2418083,52.56924,-1,"The Libertines at Met Lounge (September 26, 2002)","Peterborough, UK",,,26/09/02,2002,9,26,null,519259.5736,298275.5121
+60,59,-0.137243,50.822556,-1,"The Libertines at Brighton Pavillion (September 28, 2002)","Brighton, UK",,,28/09/02,2002,9,28,null,531302.3874,104210.3001
+61,60,-1.46433,52.91655,-1,"The Libertines at The Victoria Inn (September 30, 2002)","Derby, UK",,,30/09/02,2002,9,30,null,436116.4116,335592.9306
+62,61,0.19,52.176,-1,"The Libertines at The Boat Race (October 1, 2002)","Cambridge, UK",,,01/10/02,2002,10,1,null,549846.6799,255343.1158
+63,62,0.283333,51.1333,-1,"The Libertines at The Forum (October 2, 2002)","Tunbridge Wells, UK",,,02/10/02,2002,10,2,null,559853.2468,139592.4759
+64,63,-0.1351725,51.516098,350,"The Libertines at 100 Club (October 4, 2002)","London, UK",,,04/10/02,2002,10,4,null,529492.4838,181334.2816
+65,64,-2.9658353,53.40502,-1,"The Libertines at Liverpool University Guild of Students (Mountford Hall & Stanley Theatre) (October 5, 2002)","Liverpool, UK",,,05/10/02,2002,10,5,null,335887.0035,390234.8471
+66,65,-0.083714,51.527657,-1,"The Libertines at Charlie Wright's Music Lounge (October 6, 2002)","London, UK",,,06/10/02,2002,10,6,null,533029.1061,182711.9144
+67,66,-5.930742,54.593197,-1,"Supergrass with The Libertines and Rocket Science at Limelight (October 12, 2002)","Belfast, UK",,,12/10/02,2002,10,12,null,146174.4817,529105.9887
+68,67,-1.1535941,52.955887,2000,"Supergrass with The Libertines and Rocket Science at Rock City (October 15, 2002)","Nottingham, UK",,,15/10/02,2002,10,15,null,456958.8264,340169.7671
+69,68,-1.6094534,54.980087,-1,"Supergrass with The Libertines at Northumbria University Student Union (October 16, 2002)","Newcastle Upon Tyne, UK",,,16/10/02,2002,10,16,null,425093.7929,565123.2801
+70,69,-4.2369184,55.855057,1900,"Supergrass with The Libertines and Rocket Science at Barrowland Ballroom (October 17, 2002)","Glasgow, UK",,,17/10/02,2002,10,17,null,260074.0055,664692.196
+71,70,-1.5572104,53.807632,2100,"Supergrass with The Libertines and Rocket Science at The Refectory, Leeds University (October 18, 2002)","Leeds, UK",,,18/10/02,2002,10,18,null,429256.65,434684.0807
+72,71,-2.23149,53.464108,-1,"Supergrass with The Libertines and Rocket Science at Club Academy (October 20, 2002)","Manchester, UK",,,20/10/02,2002,10,20,null,384728.7049,396398.8156
+73,72,-2.6003513,51.4539,1601,"Supergrass with The Libertines and Rocket Science at O2 Academy Bristol (October 22, 2002)","Bristol, UK",,,22/10/02,2002,10,22,null,358381.4975,172939.808
+74,73,-0.1379306,51.51614,-1,"The Libertines at HMV Oxford Street (October 23, 2002)","London, UK",,,23/10/02,2002,10,23,null,529301.0022,181334.0793
+75,74,-1.4055136,50.907608,1749,"Supergrass with The Libertines and Rocket Science at O2 Guildhall Southampton (October 24, 2002)","Southampton, UK",,,24/10/02,2002,10,24,null,441895.1236,112183.4769
+76,75,-3.1771,51.478,-1,"Supergrass with The Libertines and Rocket Science at Cardiff University (October 25, 2002)","Cardiff, UK",,,25/10/02,2002,10,25,null,318350.4357,176106.3257
+77,76,0.1194611,52.20439,1800,"Supergrass with The Libertines and Rocket Science at Corn Exchange Cambridge (October 27, 2002)","Cambridge, UK",,,27/10/02,2002,10,27,null,544931.5587,258357.0779
+78,77,-0.2238407,51.503506,2000,"Supergrass with The Libertines, Rocket Science, and Levellers at O2 Shepherd's Bush Empire (October 28, 2002)","London, UK",,,28/10/02,2002,10,28,null,523374.4489,179780.9506
+79,78,-0.2238407,51.503506,2000,"Supergrass with The Libertines and Rocket Science at O2 Shepherd's Bush Empire (October 29, 2002)","London, UK",,,29/10/02,2002,10,29,null,523374.4489,179780.9506
+80,79,-1.1535941,52.955887,2000,"The Vines with The Libertines and Hoggboy at Rock City (October 30, 2002)","Nottingham, UK",,,30/10/02,2002,10,30,null,456958.8264,340169.7671
+81,80,-0.1148897,51.465122,4921,"Morrissey with Sack and The Libertines at O2 Academy Brixton (November 5, 2002)","London, UK",,,05/11/02,2002,11,5,null,531045.7189,175701.6561
+82,81,-0.128,51.5078,-1,"Black Rebel Motorcycle Club and The Libertines at Umpire (December 6, 2002)","London, UK",,,06/12/02,2002,12,6,null,530013.7302,180424.2206
+83,82,-0.1059202,51.534584,800,"The Darkness and The Libertines at O2 Academy Islington (December 10, 2002)","London, UK",,,10/12/02,2002,12,10,null,531468.8506,183442.1131
+84,83,-0.0676107,51.516865,-1,"The Libertines with Razorlight, The Cherubs, and KILL CITY at Rhythm Factory (December 18, 2002)","London, UK",,,18/12/02,2002,12,18,null,534177.7882,181541.1916
+85,84,-0.110364,51.52989,-1,"The Libertines at Filthy McNasty (January 16, 2003)","London, UK",,,16/01/03,2003,1,16,null,531174.1385,182912.1538
+86,85,-0.1304708,51.515884,2000,"The Libertines with The Detriot Cobras, The Sights, and Hiss at Astoria (February 12, 2003)","London, UK",,,12/02/03,2003,2,12,null,529819.3053,181318.8073
+87,86,-0.0676107,51.516865,-1,"The Libertines at Rhythm Factory (February 14, 2003)","London, UK",,,14/02/03,2003,2,14,null,534177.7882,181541.1916
+88,87,-1.4648403,53.376324,900,"British Sea Power and The Libertines at The Leadmill (February 22, 2003)","Sheffield, UK",,,22/02/03,2003,2,22,null,435700.0049,386740.8979
+89,88,-4.2653494,55.8625,300,"The Libertines at King Tut's Wah Wah Hut (February 23, 2003)","Glasgow, UK",,,23/02/03,2003,2,23,null,258321.7681,665578.2436
+90,89,-2.9658353,53.40502,-1,"The Libertines at Liverpool University Guild of Students (Mountford Hall & Stanley Theatre) (February 24, 2003)","Liverpool, UK",,,24/02/03,2003,2,24,null,335887.0035,390234.8471
+91,90,-1.147,52.954,-1,"The Libertines at Unknown venue (February 25, 2003)","Nottingham, UK",,,25/02/03,2003,2,25,null,457404.3034,339965.098
+92,91,-0.128,51.5078,-1,"The Libertines at Albion Rooms (March 21, 2003)","London, UK",,,21/03/03,2003,3,21,null,530013.7302,180424.2206
+93,92,-0.1032592,51.545204,150,"The Libertines at Buffalo Bar (March 27, 2003)","London, UK",,,27/03/03,2003,3,27,null,531622.7805,184627.8768
+94,93,-0.1510835,51.5434,200,"The Libertines at The Barfly (March 28, 2003)","London, UK",,,28/03/03,2003,3,28,null,528311.8227,184342.3655
+95,94,-0.1125918,51.53664,-1,"The Libertines at Lark In The Park (April 3, 2003)","London, UK",,,03/04/03,2003,4,3,null,531000.2519,183658.7899
+96,95,-0.1510835,51.5434,200,"The Libertines with The Cribs at The Barfly (April 4, 2003)","London, UK",,,04/04/03,2003,4,4,null,528311.8227,184342.3655
+97,96,-0.128,51.5078,-1,"The Libertines at Bar Undersolo (June 1, 2003)","London, UK",,,01/06/03,2003,6,1,null,530013.7302,180424.2206
+98,97,-0.128,51.5078,-1,"The Libertines at Romford Rd (June 3, 2003)","London, UK",,,03/06/03,2003,6,3,null,530013.7302,180424.2206
+99,98,-2.23149,53.464108,1500,"The Libertines at Manchester Academy (June 20, 2003)","Manchester, UK",,,20/06/03,2003,6,20,null,384728.7049,396398.8156
+100,99,-3.04363,53.439,-1,"The Coral with The Libertines, The Thrills, The Bees (UK), and 2 more‡ at King's Parade Big Top (June 21, 2003)","New Brighton, UK",,,21/06/03,2003,6,21,null,330770.5504,394087.8817
+101,100,-4.2369184,55.855057,1900,"The Libertines with Franz Ferdinand at Barrowland Ballroom (June 22, 2003)","Glasgow, UK",,,22/06/03,2003,6,22,null,260074.0055,664692.196
+102,101,-1.548,53.797,500,"The Libertines at The Cockpit (June 24, 2003)","Leeds, UK",,,24/06/03,2003,6,24,null,429870.7064,433504.9945
+103,102,-0.141771,51.552048,2350,"The Libertines with The Buff Medways and The Stands at The Forum (June 25, 2003)","London, UK",,,25/06/03,2003,6,25,null,528933.1269,185320.4222
+104,103,-2.587,51.1663,2350,Glastonbury Festival 2003,"Pilton, UK",,,27/06/03,2003,6,27,null,359053.3059,140947.8021
+105,104,-3.04215,51.1617,2350,Doves Glastonbury Festival 2003,"Somerset, UK",,,27/06/03,2003,6,27,null,327222.4369,140788.825
+106,105,-0.128,51.5078,-1,"The Libertines at 61 Gascony Ave (July 26, 2003)","London, UK",,,26/07/03,2003,7,26,null,530013.7302,180424.2206
+107,106,-0.9831782,51.46432,-1,Reading Festival 2003,"Reading, UK",,,22/08/03,2003,8,22,null,470733.3472,174417.6488
+108,107,-1.39181,53.9332,-1,Leeds Festival 2003,"Wetherby, UK",,,22/08/03,2003,8,22,null,440028.9484,448735.2911
+109,108,0.5222792,51.381775,-1,"The Libertines with The Cherubs at Tap 'n' Tin (October 8, 2003)","Chatham, UK",,,08/10/03,2003,10,8,null,575620.1693,167766.1594
+110,109,-0.128,51.5078,-1,"The Libertines at Regent's Park Open Air Theatre (October 13, 2003)","London, UK",,,13/10/03,2003,10,13,null,530013.7302,180424.2206
+111,110,-0.2040384,51.52149,-1,"The Fiery Furnaces with The Libertines at Neighbourhood (October 17, 2003)","London, UK",,,17/10/03,2003,10,17,null,524699.689,181814.3887
+112,111,-0.0368543,51.671,-1,"The Libertines at The Duke of Clarence (October 18, 2003)","London, UK",,,18/10/03,2003,10,18,null,535851.343,198738.3492
+113,112,-0.0368543,51.671,-1,"The Libertines at The Duke of Clarence (November 5, 2003)","London, UK",,,05/11/03,2003,11,5,null,535851.343,198738.3492
+114,113,-0.128,51.5078,-1,"The Libertines at Albion Rooms (November 11, 2003)","London, UK",,,11/11/03,2003,11,11,null,530013.7302,180424.2206
+115,114,-0.0368543,51.671,-1,"The Libertines at The Duke of Clarence (November 19, 2003)","London, UK",,,19/11/03,2003,11,19,null,535851.343,198738.3492
+116,115,-0.110364,51.52989,-1,"The Libertines at Filthy McNasty (December 1, 2003)","London, UK",,,01/12/03,2003,12,1,null,531174.1385,182912.1538
+117,116,-0.0676107,51.516865,-1,"The Libertines with The Cherubs at Rhythm Factory (December 5, 2003)","London, UK",,,05/12/03,2003,12,5,null,534177.7882,181541.1916
+118,117,-0.1510835,51.5434,200,"The Libertines at The Barfly (December 12, 2003)","London, UK",,,12/12/03,2003,12,12,null,528311.8227,184342.3655
+119,118,-0.141771,51.552048,2350,"The Libertines with Chas 'n' Dave and KILL CITY at The Forum (December 16, 2003)","London, UK",,,16/12/03,2003,12,16,null,528933.1269,185320.4222
+120,119,-0.141771,51.552048,2350,"The Libertines with Bandits at The Forum (December 17, 2003)","London, UK",,,17/12/03,2003,12,17,null,528933.1269,185320.4222
+121,120,-0.141771,51.552048,2350,"The Libertines with Babyshambles and The Beatings at The Forum (December 18, 2003)","London, UK",,,18/12/03,2003,12,18,null,528933.1269,185320.4222
+122,121,-0.110364,51.52989,-1,"The Libertines at Filthy McNasty (December 22, 2003)","London, UK",,,22/12/03,2003,12,22,null,531174.1385,182912.1538
+123,122,-0.0676107,51.516865,-1,"The Libertines at Rhythm Factory (December 23, 2003)","London, UK",,,23/12/03,2003,12,23,null,534177.7882,181541.1916
+124,123,-0.1032592,51.545204,150,"The Libertines at Buffalo Bar (January 11, 2004)","London, UK",,,11/01/04,2004,1,11,null,531622.7805,184627.8768
+125,124,-1.611,54.973,-1,"The Libertines at Bulletproof (January 16, 2004)","Newcastle Upon Tyne, UK",,,16/01/04,2004,1,16,null,424999.19,564334.0805
+126,125,-0.128,51.5078,-1,"The Libertines at Peter'S Flat (January 18, 2004)","London, UK",,,18/01/04,2004,1,18,null,530013.7302,180424.2206
+127,126,-2.9791424,53.402172,-1,"The Libertines at Zanzibar (February 15, 2004)","Liverpool, UK",,,15/02/04,2004,2,15,null,334998.0006,389930.0727
+128,127,-0.0368543,51.671,-1,"The Libertines at The Duke of Clarence (February 18, 2004)","London, UK",,,18/02/04,2004,2,18,null,535851.343,198738.3492
+129,128,-0.0676107,51.516865,-1,"The Libertines with Selfish Cunt at Rhythm Factory (February 26, 2004)","London, UK",,,26/02/04,2004,2,26,null,534177.7882,181541.1916
+130,129,-1.8998971,52.474327,3000,"The Libertines with The Ordinary Boys and The Cribs at O2 Academy Birmingham (February 29, 2004)","Birmingham, UK",,,29/02/04,2004,2,29,null,406896.471,286270.8479
+131,130,-2.23149,53.464108,1500,"The Libertines with Bandits at Manchester Academy (March 1, 2004)","Manchester, UK",,,01/03/04,2004,3,1,null,384728.7049,396398.8156
+132,131,-4.2369184,55.855057,1900,"The Libertines with Eastern Lane and RAISING KAIN at Barrowland Ballroom (March 2, 2004)","Glasgow, UK",,,02/03/04,2004,3,2,null,260074.0055,664692.196
+133,132,-2.5975637,51.45598,-1,"The Libertines with The Cherubs and Junkbox at Colston Hall (March 4, 2004)","Bristol, UK",,,04/03/04,2004,3,4,null,358577.0788,173169.5495
+134,133,-0.1148897,51.465122,4921,"The Libertines with Selfish Cunt and LEFT HAND at O2 Academy Brixton (March 5, 2004)","London, UK",,,05/03/04,2004,3,5,null,531045.7189,175701.6561
+135,134,-0.1148897,51.465122,4921,"The Libertines with Wolfman at O2 Academy Brixton (March 6, 2004)","London, UK",,,06/03/04,2004,3,6,null,531045.7189,175701.6561
+136,135,-0.1148897,51.465122,4921,"The Libertines with Chas 'n' Dave and The Others at O2 Academy Brixton (March 7, 2004)","London, UK",,,07/03/04,2004,3,7,null,531045.7189,175701.6561
+137,136,-0.1304708,51.515884,2000,"The Libertines with Buzzcocks and The Eighties Matchbox B-line Disaster at Astoria (March 16, 2004)","London, UK",,,16/03/04,2004,3,16,null,529819.3053,181318.8073
+138,137,-0.128,51.5078,-1,"The Libertines at Colour Bar (March 21, 2004)","London, UK",,,21/03/04,2004,3,21,null,530013.7302,180424.2206
+139,138,-0.0676107,51.516865,-1,"The Libertines at Rhythm Factory (March 23, 2004)","London, UK",,,23/03/04,2004,3,23,null,534177.7882,181541.1916
+140,139,-0.0990931,51.494812,2600,"The Libertines with M.A.S.S. and LEFT HAND at Coronet Theatre (April 10, 2004)","London, UK",,,10/04/04,2004,4,10,null,532057.2195,179031.6226
+141,140,-0.1319453,51.510433,-1,"The Libertines at Caf⁄ De Par›s (April 13, 2004)","London, UK",,,13/04/04,2004,4,13,null,529732.474,180710.0241
+142,141,-2.181132,53.02291,-1,"Babyshambles with The Libertines at The Underground (April 21, 2004)","Stoke On Trent, UK",,,21/04/04,2004,4,21,null,387947.4914,347306.0881
+143,142,-0.128,51.5078,-1,"The Libertines at Filthy McNasties (May 6, 2004)","London, UK",,,06/05/04,2004,5,6,null,530013.7302,180424.2206
+144,143,-0.1319453,51.510433,-1,"The Libertines at Caf⁄ De Par›s (May 12, 2004)","London, UK",,,12/05/04,2004,5,12,null,529732.474,180710.0241
+145,144,-0.128,51.5078,-1,"The Libertines at Infinity Club (June 7, 2004)","London, UK",,,07/06/04,2004,6,7,null,530013.7302,180424.2206
+146,145,-0.1319453,51.510433,-1,"The Libertines at Caf⁄ De Par›s (June 12, 2004)","London, UK",,,12/06/04,2004,6,12,null,529732.474,180710.0241
+147,146,-3.4229,56.20613,-1,T In The Park 2004,"Kinross, UK",,,10/07/04,2004,7,10,null,311829.1492,702415.1027
+148,147,-0.9831782,51.46432,-1,Reading Festival 2004,"Reading, UK",,,27/08/04,2004,8,27,null,470733.3472,174417.6488
+149,148,-1.39181,53.9332,-1,Leeds Festival 2004,"Wetherby, UK",,,27/08/04,2004,8,27,null,440028.9484,448735.2911
+150,149,-0.9848147,51.463963,-1,"Morrissey with The White Stripes, The Libertines, Franz Ferdinand, and 1 more‡ at Reading Festival (August 28, 2004)","Reading, UK",,,28/08/04,2004,8,28,null,470620.2153,174376.3695
+151,150,-0.1510835,51.5434,200,"The Libertines and Babyshambles at The Barfly (December 3, 2004)","London, UK",,,03/12/04,2004,12,3,null,528311.8227,184342.3655
+152,151,-0.138338,51.53462,1410,"The Libertines, The Concretes, and Yeti at KOKO (February 18, 2005)","London, UK",,,18/02/05,2005,2,18,null,529220.4499,183388.4078
+153,152,-0.138338,51.53462,1410,"The Libertines and Supergrass with M.A.S.S. at KOKO (October 22, 2005)","London, UK",,,22/10/05,2005,10,22,null,529220.4499,183388.4078
+154,153,-0.141771,51.552048,2350,"The Libertines at The Forum (August 24, 2010)","London, UK",,,24/08/10,2010,8,24,null,528933.1269,185320.4222
+155,154,-0.141771,51.552048,2350,"The Libertines with The Valentines at The Forum (August 25, 2010)","London, UK",,,25/08/10,2010,8,25,19:00:00,528933.1269,185320.4222
+156,155,-0.969,51.454,2350,Reading Festival 2010,"Reading, UK",,,27/08/10,2010,8,27,10:00:00,471734.4079,173283.7085
+157,156,-1.548,53.797,2350,Leeds Festival 2010,"Leeds, UK",,,27/08/10,2010,8,27,19:00:00,429870.7064,433504.9945
+158,157,-4.2369184,55.855057,1900,"The Libertines at Barrowland Ballroom (June 28, 2014)","Glasgow, UK",,,28/06/14,2014,6,28,19:00:00,260074.0055,664692.196
+159,158,-4.2369184,55.855057,1900,"The Libertines at Barrowland Ballroom (June 29, 2014)","Glasgow, UK",,,29/06/14,2014,6,29,19:00:00,260074.0055,664692.196
+160,159,-0.128,51.5078,150000,Barclaycard British Summer Time 2014,"London, UK",,,05/07/14,2014,7,5,12:30:00,530013.7302,180424.2206
