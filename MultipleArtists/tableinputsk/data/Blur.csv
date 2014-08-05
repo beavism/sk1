@@ -1,0 +1,272 @@
+id,xcoord,ycoord,bng_N,bng_E,venueSize,gigName,locationName,billing,headlineArtist,date,year,month,day,time
+0,-0.1064525,51.53331,183354.17,531322.5,-1,"Blur at Powerhaus (November 1, 1989)","London, UK",,,1989-11-01,1989,11,1,null
+1,-0.1070014,51.563408,186699.72,531197.9,-1,"Blur at Sir George Robey (December 2, 1989)","London, UK",,,1989-12-02,1989,12,2,null
+2,0.0831734,51.769306,209952.11,543723.75,-1,"Blur at The Square (December 17, 1989)","Harlow, UK",,,1989-12-17,1989,12,17,null
+3,-0.1148897,51.465122,175757.08,530932.7,4921,"The Cramps with Mega City Four and Blur at O2 Academy Brixton (February 27, 1990)","London, UK",,,1990-02-27,1990,2,27,null
+4,-1.9255185,52.453896,284039.03,405060.84,-1,"Blur at University of Birmingham Guild of Students (March 10, 1990)","Birmingham, UK",,,1990-03-10,1990,3,10,null
+5,-1.907,52.478,286721.38,406315.7,-1,"Voice of the Beehive with Salvation, Blur, The Argonauts, and 1 more… at Uni Cellar Bar (March 10, 1990)","Birmingham, UK",,,1990-03-10,1990,3,10,null
+6,-0.1388487,51.542355,184302.05,529050.3,-1,"Blur with Motorcycle Boy at The Camden Falcon (March 30, 1990)","London, UK",,,1990-03-30,1990,3,30,null
+7,-0.1302396,51.521408,181988.38,529706.75,820,"Wild River Apples with The Right Stuff and Blur at University of London Union (ULU) (April 7, 1990)","London, UK",,,1990-04-07,1990,4,7,null
+8,-0.128,51.5078,180479.5,529900.8,275,"Blur at The Borderline (April 10, 1990)","London, UK",,,1990-04-10,1990,4,10,null
+9,-0.128,51.5078,180479.5,529900.8,-1,"Blur at Lady Owen Arms (April 14, 1990)","London, UK",,,1990-04-14,1990,4,14,null
+10,-0.1064525,51.53331,183354.17,531322.5,-1,"Blur at Powerhaus (April 21, 1990)","London, UK",,,1990-04-21,1990,4,21,null
+11,-2.0797293,52.5124,290546.38,394589.78,-1,"Blur at JB's (April 27, 1990)","Dudley, UK",,,1990-04-27,1990,4,27,null
+12,0.136877,52.190983,256947.36,546050.25,1050,"Blur at The Junction (April 28, 1990)","Cambridge, UK",,,1990-04-28,1990,4,28,null
+13,-0.1407348,51.550365,185189.6,528896.9,-1,"Blur at The Bull And Gate (May 4, 1990)","London, UK",,,1990-05-04,1990,5,4,null
+14,-0.1430625,51.53968,183997.28,528765.75,1100,"Blur at Electric Ballroom (May 8, 1990)","London, UK",,,1990-05-08,1990,5,8,null
+15,-0.1070014,51.563408,186699.72,531197.9,-1,"Blur at Sir George Robey (May 16, 1990)","London, UK",,,1990-05-16,1990,5,16,null
+16,-0.1985375,51.542496,184214.38,524911.5,-1,"Jesus Jones with Ned's Atomic Dustbin and Blur at Kilburn National Ballroom (May 17, 1990)","London, UK",,,1990-05-17,1990,5,17,null
+17,-0.1407348,51.550365,185189.6,528896.9,-1,"Blur at The Bull And Gate (May 28, 1990)","London, UK",,,1990-05-28,1990,5,28,null
+18,-2.3626993,51.384743,165196.1,374763.06,220,"Blur at Moles Club (June 9, 1990)","Bath, UK",,,1990-06-09,1990,6,9,null
+19,-0.138338,51.53462,183442.84,529107.6,1410,"Blur at KOKO (June 12, 1990)","London, UK",,,1990-06-12,1990,6,12,null
+20,-0.128,51.5078,180479.5,529900.8,-1,"Blur at Mark Goodier's Evening Session (June 24, 1990)","London, UK",,,1990-06-24,1990,6,24,null
+21,-1.6152074,54.97923,565036.56,424624.88,-1,"Blur at Newcastle University Students Union (July 11, 1990)","Newcastle Upon Tyne, UK",,,1990-07-11,1990,7,11,null
+22,-4.2653494,55.8625,665576.56,258241.28,300,"Blur at King Tut's Wah Wah Hut (July 12, 1990)","Glasgow, UK",,,1990-07-12,1990,7,12,null
+23,-1.1377037,52.631897,304183.44,458353.8,-1,"Blur at Princess Charlotte (July 13, 1990)","Leicester, UK",,,1990-07-13,1990,7,13,null
+24,-2.235,53.477,397863.8,384404.94,-1,"Blur at The Boardwalk (July 21, 1990)","Manchester, UK",,,1990-07-21,1990,7,21,null
+25,-1.9130725,52.47605,286504.0,405903.56,-1,"Blur at Burberries (July 22, 1990)","Birmingham, UK",,,1990-07-22,1990,7,22,null
+26,-0.1390398,51.557907,186031.36,528993.06,600,"Blur at The Dome, Tufnell Park (July 25, 1990)","London, UK",,,1990-07-25,1990,7,25,null
+27,-2.0797293,52.5124,290546.38,394589.78,-1,"Blur at JB's (July 27, 1990)","Dudley, UK",,,1990-07-27,1990,7,27,null
+28,-2.3626993,51.384743,165196.1,374763.06,220,"Blur at Moles Club (July 28, 1990)","Bath, UK",,,1990-07-28,1990,7,28,null
+29,-0.1417947,50.81998,103979.625,530876.25,-1,"Blur with Suede at Zap Club (October 16, 1990)","Brighton, UK",,,1990-10-16,1990,10,16,null
+30,-0.766667,51.25,150872.72,486066.88,-1,"Blur at Buzz Club (October 20, 1990)","Aldershot, UK",,,1990-10-20,1990,10,20,null
+31,-1.1377037,52.631897,304183.44,458353.8,-1,"Blur at Princess Charlotte (October 23, 1990)","Leicester, UK",,,1990-10-23,1990,10,23,null
+32,-1.468,53.38,387179.75,435384.88,-1,"Blur at Maze Bar, Students' Union, University of Sheffield (October 24, 1990)","Sheffield, UK",,,1990-10-24,1990,10,24,null
+33,-2.0797293,52.5124,290546.38,394589.78,-1,"Blur at JB's (October 26, 1990)","Dudley, UK",,,1990-10-26,1990,10,26,null
+34,-1.86,50.724,91671.41,409880.97,-1,"Blur with The Keatons at Hothouse (November 1, 1990)","Bournemouth, UK",,,1990-11-01,1990,11,1,null
+35,-2.593,51.453,172890.88,358800.03,-1,"Blur at Bristol Polytechnic (November 2, 1990)","Bristol, UK",,,1990-11-02,1990,11,2,null
+36,-1.5606456,52.37614,275479.22,429905.53,-1,"Blur at University of Warwick Student Union (November 3, 1990)","Coventry, UK",,,1990-11-03,1990,11,3,null
+37,-1.6038477,54.972137,564251.44,425356.3,-1,"Blur at Riverside 1 (November 5, 1990)","Newcastle Upon Tyne, UK",,,1990-11-05,1990,11,5,null
+38,-1.9130725,52.47605,286504.0,405903.56,-1,"Blur at Burberries (November 6, 1990)","Birmingham, UK",,,1990-11-06,1990,11,6,null
+39,0.136877,52.190983,256947.36,546050.25,1050,"Blur at The Junction (November 7, 1990)","Cambridge, UK",,,1990-11-07,1990,11,7,null
+40,-1.5398636,53.798473,433698.38,430304.22,-1,"Blur at Duchess of York (November 8, 1990)","Leeds, UK",,,1990-11-08,1990,11,8,null
+41,-2.3626993,51.384743,165196.1,374763.06,220,"Blur at Moles Club (November 10, 1990)","Bath, UK",,,1990-11-10,1990,11,10,null
+42,-0.1302396,51.521408,181988.38,529706.75,820,"Blur at University of London Union (ULU) (November 11, 1990)","London, UK",,,1990-11-11,1990,11,11,null
+43,-2.2475262,53.474308,397567.25,383572.62,-1,"Blur at Haçienda (November 12, 1990)","Manchester, UK",,,1990-11-12,1990,11,12,null
+44,-0.948085,51.440952,171909.02,473102.72,-1,"Blur at Reading University Student Union (November 13, 1990)","Reading, UK",,,1990-11-13,1990,11,13,null
+45,-1.147,52.954,340001.75,457299.88,-1,"Blur at Venus Club (November 14, 1990)","Nottingham, UK",,,1990-11-14,1990,11,14,null
+46,-1.2295461,51.75517,206607.78,453174.66,-1,"Blur at Oxford Brookes University Student Union (November 15, 1990)","Oxford, UK",,,1990-11-15,1990,11,15,null
+47,-0.1148897,51.465122,175757.08,530932.7,4921,"The Soup Dragons with Blur at O2 Academy Brixton (December 21, 1990)","London, UK",,,1990-12-21,1990,12,21,null
+48,-0.141771,51.552048,185374.97,528820.3,2350,"Blur at The Forum (February 6, 1991)","London, UK",,,1991-02-06,1991,2,6,null
+49,-0.1388487,51.542355,184302.05,529050.3,-1,"Blur at The Camden Falcon (March 9, 1991)","London, UK",,,1991-03-09,1991,3,9,null
+50,-0.03674,51.476162,177127.33,536327.3,-1,"Lush with Blur and Moose at The Venue, New Cross (March 15, 1991)","London, UK",,,1991-03-15,1991,3,15,null
+51,-3.9815784,51.61282,192356.64,262812.47,-1,"Blur at Swansea University (March 19, 1991)","Swansea, UK",,,1991-03-19,1991,3,19,null
+52,-2.179404,53.002666,345089.88,387962.03,-1,"Blur at Freetown (March 20, 1991)","Stoke On Trent, UK",,,1991-03-20,1991,3,20,null
+53,-2.6,53.3833,387582.6,360095.34,-1,"Blur at Legends (March 22, 1991)","Warrington, UK",,,1991-03-22,1991,3,22,null
+54,-0.7497962,52.02841,237452.62,485762.9,400,"Blur at Woughton Centre (March 23, 1991)","Milton Keynes, UK",,,1991-03-23,1991,3,23,null
+55,-1.468,53.38,387179.75,435384.88,-1,"Blur at Sheffield Hallam University Student Union (April 18, 1991)","Sheffield, UK",,,1991-04-18,1991,4,18,null
+56,-0.7084497,52.479168,287631.28,487705.47,-1,"Blur at Irish Centre (April 19, 1991)","Corby, UK",,,1991-04-19,1991,4,19,null
+57,-2.115,52.586,298735.56,392209.44,-1,"Blur at Wolverhampton Polytechnic (April 20, 1991)","Wolverhampton, UK",,,1991-04-20,1991,4,20,null
+58,-1.6152074,54.97923,565036.56,424624.88,-1,"Blur with Catherine Wheel at Newcastle University Students Union (April 22, 1991)","Newcastle Upon Tyne, UK",,,1991-04-22,1991,4,22,null
+59,-1.553636,53.79886,433735.47,429396.9,-1,"Blur at Warehouse (April 23, 1991)","Leeds, UK",,,1991-04-23,1991,4,23,null
+60,-0.128,51.5078,180479.5,529900.8,-1,"Blur at Top Of The Pops (April 24, 1991)","London, UK",,,1991-04-24,1991,4,24,null
+61,-2.235,53.477,397863.8,384404.94,-1,"Blur at The Boardwalk (April 25, 1991)","Manchester, UK",,,1991-04-25,1991,4,25,null
+62,-0.1304708,51.515884,181373.95,529706.4,2000,"Blur with The Dylans at Astoria (April 26, 1991)","London, UK",,,1991-04-26,1991,4,26,null
+63,0.9,51.8833,224551.8,599564.4,-1,"Blur at Dance Hall, Students Union, University of Essex (April 27, 1991)","Colchester, UK",,,1991-04-27,1991,4,27,null
+64,-1.907,52.478,286721.38,406315.7,-1,"Blur at Goldwyns (April 29, 1991)","Birmingham, UK",,,1991-04-29,1991,4,29,null
+65,-2.9713595,53.402466,389986.3,335426.66,-1,"Blur at Liverpool Polytechnic Student Union (April 30, 1991)","Liverpool, UK",,,1991-04-30,1991,4,30,null
+66,-4.2653494,55.8625,665576.56,258241.28,300,"Blur at King Tut's Wah Wah Hut (May 1, 1991)","Glasgow, UK",,,1991-05-01,1991,5,1,null
+67,-3.186456,55.95311,673975.7,325922.9,-1,"Blur at The Venue (May 2, 1991)","Edinburgh, UK",,,1991-05-02,1991,5,2,null
+68,-1.507,52.41,279268.38,433531.34,-1,"Blur at Tic Toc Club (May 3, 1991)","Coventry, UK",,,1991-05-03,1991,5,3,null
+69,-0.141771,51.552048,185374.97,528820.3,2350,"Blur at The Forum (June 12, 1991)","London, UK",,,1991-06-12,1991,6,12,null
+70,-0.969,51.454,173339.06,471628.8,-1,Reading Festival 1991,"Reading, UK",,,1991-08-23,1991,8,23,null
+71,-1.2350084,54.57475,520233.2,449446.34,-1,"Blur with Spitfire at Middlesbrough Town Hall (October 4, 1991)","Middlesbrough, UK",,,1991-10-04,1991,10,4,null
+72,-1.4912771,53.381065,387286.6,433835.84,-1,"Blur at Octagon Centre, University of Sheffield (October 5, 1991)","Sheffield, UK",,,1991-10-05,1991,10,5,null
+73,-5.9292774,54.58605,528319.8,146158.7,-1,"Blur at Mandela Hall (October 8, 1991)","Belfast, UK",,,1991-10-08,1991,10,8,null
+74,-1.12483,52.623302,303237.88,459236.6,-1,"Blur at Leicester University Student Union (October 10, 1991)","Leicester, UK",,,1991-10-10,1991,10,10,null
+75,1.2490275,52.62884,308450.78,619856.56,1500,"Blur at Norwich UEA LCR (October 11, 1991)","Norwich, UK",,,1991-10-11,1991,10,11,null
+76,-2.23149,53.464108,396428.9,384633.22,1500,"Blur at Manchester Academy (October 12, 1991)","Manchester, UK",,,1991-10-12,1991,10,12,null
+77,-1.8875484,52.475746,286472.56,407637.03,1500,"Blur at The Institute (October 14, 1991)","Birmingham, UK",,,1991-10-14,1991,10,14,null
+78,-3.1771,51.478,176160.92,318264.06,-1,"Blur at Cardiff University (October 21, 1991)","Cardiff, UK",,,1991-10-21,1991,10,21,null
+79,-1.548,53.797,433531.12,429769.4,-1,"Blur at Leeds Polytechnic Student Union (October 22, 1991)","Leeds, UK",,,1991-10-22,1991,10,22,null
+80,0.1194611,52.20439,258403.69,544816.44,1800,"Blur at Corn Exchange Cambridge (October 23, 1991)","Cambridge, UK",,,1991-10-23,1991,10,23,null
+81,-0.1985375,51.542496,184214.38,524911.5,-1,"Blur with Wir at Kilburn National Ballroom (October 24, 1991)","London, UK",,,1991-10-24,1991,10,24,null
+82,-0.128,51.5078,180479.5,529900.8,-1,"Blur at The Word (December 1, 1991)","London, UK",,,1991-12-01,1991,12,1,null
+83,-0.1148897,51.465122,175757.08,530932.7,4921,"Jesus Jones with Blur, Diesel Park West, Sensitize, and 1 more… at O2 Academy Brixton (December 21, 1991)","London, UK",,,1991-12-21,1991,12,21,null
+84,-2.206175,53.460663,396040.47,386312.56,7000,"Blur, The Jesus and Mary Chain, My Bloody Valentine, and Dinosaur Jr. at O2 Apollo Manchester (March 24, 1992)","Manchester, UK",,,1992-03-24,1992,3,24,null
+85,-4.2809606,55.860603,665397.9,257257.62,-1,"My Bloody Valentine, The Jesus and Mary Chain, Blur, and Dinosaur Jr. at Scottish Exhibition and Conference Centre (March 25, 1992)","Glasgow, UK",,,1992-03-25,1992,3,25,null
+86,-1.451299,55.04639,572579.44,435055.5,-1,"Dinosaur Jr., The Jesus and Mary Chain, My Bloody Valentine, and Blur at Ice Rink (March 27, 1992)","Whitley Bay, UK",,,1992-03-27,1992,3,27,null
+87,-1.4168171,53.400543,389491.4,438770.53,13500,"Blur, Dinosaur Jr., The Jesus and Mary Chain, and My Bloody Valentine at Motorpoint Arena (March 28, 1992)","Sheffield, UK",,,1992-03-28,1992,3,28,null
+88,-4.152859,50.367966,54291.617,246913.03,-1,"Blur, Dinosaur Jr., The Jesus and Mary Chain, and My Bloody Valentine at Plymouth Pavilions (March 30, 1992)","Plymouth, UK",,,1992-03-30,1992,3,30,null
+89,-0.1488263,50.82128,104111.836,530377.44,-1,"Blur, Dinosaur Jr., The Jesus and Mary Chain, and My Bloody Valentine at Brighton Centre (April 1, 1992)","Brighton, UK",,,1992-04-01,1992,4,1,null
+90,-3.1771,51.478,176160.92,318264.06,-1,"Blur, The Jesus and Mary Chain, Dinosaur Jr., and My Bloody Valentine at Wales National Ice Rink (April 3, 1992)","Cardiff, UK",,,1992-04-03,1992,4,3,null
+91,-1.7289522,52.451088,283758.75,418418.16,15700,"Blur, Dinosaur Jr., The Jesus and Mary Chain, and My Bloody Valentine at LG Arena (April 4, 1992)","Birmingham, UK",,,1992-04-04,1992,4,4,null
+92,-0.1148897,51.465122,175757.08,530932.7,4921,"The Jesus and Mary Chain with My Bloody Valentine, Dinosaur Jr., and Blur at O2 Academy Brixton (April 5, 1992)","London, UK",,,1992-04-05,1992,4,5,null
+93,-0.1148897,51.465122,175757.08,530932.7,4921,"The Jesus and Mary Chain, Blur, My Bloody Valentine, and Dinosaur Jr. at O2 Academy Brixton (April 6, 1992)","London, UK",,,1992-04-06,1992,4,6,null
+94,-0.1148897,51.465122,175757.08,530932.7,4921,"Dinosaur Jr., The Jesus and Mary Chain, My Bloody Valentine, and Blur at O2 Academy Brixton (April 7, 1992)","London, UK",,,1992-04-07,1992,4,7,null
+95,-2.587,51.1663,141007.0,358961.97,-1,Glastonbury Festival 1992,"Pilton, UK",,,1992-06-26,1992,6,26,null
+96,-0.141771,51.552048,185374.97,528820.3,2350,"Blur with Suede, Mega City Four, and 3 12 Minutes at The Forum (July 23, 1992)","London, UK",,,1992-07-23,1992,7,23,null
+97,-0.128,51.5078,180479.5,529900.8,-1,"Blur at The Gardens, Fulham (December 17, 1992)","London, UK",,,1992-12-17,1992,12,17,null
+98,-0.141771,51.552048,185374.97,528820.3,2350,"Blur at The Forum (February 6, 1993)","London, UK",,,1993-02-06,1993,2,6,null
+99,-1.12483,52.623302,303237.88,459236.6,-1,"Blur at Leicester University Student Union (May 26, 1993)","Leicester, UK",,,1993-05-26,1993,5,26,null
+100,-1.8998971,52.474327,286313.3,406798.6,3000,"Blur at O2 Academy Birmingham (May 27, 1993)","Birmingham, UK",,,1993-05-27,1993,5,27,null
+101,-0.8992343,52.239994,260817.12,475155.0,-1,"Blur at Roadmender (May 28, 1993)","Northampton, UK",,,1993-05-28,1993,5,28,null
+102,-2.23149,53.464108,396428.9,384633.22,-1,"Blur at The Hop & Grape University of Manchester (May 29, 1993)","Manchester, UK",,,1993-05-29,1993,5,29,null
+103,-0.3714517,53.769314,431586.5,507325.22,-1,"Blur at Hull University Student Union (May 30, 1993)","Hull, UK",,,1993-05-30,1993,5,30,null
+104,-1.8941518,52.478756,286806.53,407188.1,-1,"Blur at The Irish Centre (June 1, 1993)","Birmingham, UK",,,1993-06-01,1993,6,1,null
+105,1.2490275,52.62884,308450.78,619856.56,1500,"Blur at Norwich UEA LCR (June 2, 1993)","Norwich, UK",,,1993-06-02,1993,6,2,null
+106,-0.09965,50.85925,108420.74,533732.06,-1,"Blur at Stanmer Park (June 3, 1993)","Brighton, UK",,,1993-06-03,1993,6,3,null
+107,-0.1304708,51.515884,181373.95,529706.4,2000,"Blur at Astoria (June 4, 1993)","London, UK",,,1993-06-04,1993,6,4,null
+108,-5.930742,54.593197,529119.8,146108.69,-1,"Blur at Limelight (June 6, 1993)","Belfast, UK",,,1993-06-06,1993,6,6,null
+109,-2.6088538,51.457504,173400.78,357702.75,-1,"Blur at The Anson Rooms, University of Bristol (June 8, 1993)","Bristol, UK",,,1993-06-08,1993,6,8,null
+110,-1.147,52.954,340001.75,457299.88,-1,heineken music festival 1993,"Nottingham, UK",,,1993-07-08,1993,7,8,null
+111,-1.147,52.954,340001.75,457299.88,-1,Nottingham Heineken festival 1993,"Nottingham, UK",,,1993-07-10,1993,7,10,null
+112,-0.6,51.4833,177022.66,497201.84,-1,"Blur with Elastica at Old Trout (August 27, 1993)","Windsor, UK",,,1993-08-27,1993,8,27,null
+113,-0.969,51.454,173339.06,471628.8,-1,Reading Festival 1993,"Reading, UK",,,1993-08-29,1993,8,29,null
+114,-4.2369184,55.855057,664690.9,259993.33,1900,"Radiohead and Blur at Barrowland Ballroom (September 3, 1993)","Glasgow, UK",,,1993-09-03,1993,9,3,null
+115,-4.2369184,55.855057,664690.9,259993.33,1900,"Blur at Barrowland Ballroom (September 13, 1993)","Glasgow, UK",,,1993-09-13,1993,9,13,null
+116,-2.23157,53.464046,396422.12,384627.88,-1,"Blur at Manchester Metropolitan Student Union (October 2, 1993)","Manchester, UK",,,1993-10-02,1993,10,2,null
+117,-2.2620878,53.00721,345612.12,382415.84,1100,"Blur at Keele University Student Union (October 3, 1993)","Keele, UK",,,1993-10-03,1993,10,3,null
+118,-1.7598625,53.789955,432679.3,415818.5,-1,"Blur at Bradford University Union, Queens Hall (October 4, 1993)","Bradford, UK",,,1993-10-04,1993,10,4,null
+119,-1.6152074,54.97923,565036.56,424624.88,-1,"Blur with Salad and Helicopter at Newcastle University Students Union (October 5, 1993)","Newcastle Upon Tyne, UK",,,1993-10-05,1993,10,5,null
+120,-0.141771,51.552048,185374.97,528820.3,2350,"Blur with The Divine Comedy at The Forum (October 7, 1993)","London, UK",,,1993-10-07,1993,10,7,null
+121,-2.1299286,52.586216,298761.62,391198.16,1200,"Blur at Wulfrun Hall (October 8, 1993)","Wolverhampton, UK",,,1993-10-08,1993,10,8,null
+122,-3.34472,51.6014,190083.3,306877.47,-1,"Blur at Municipal Hall (October 9, 1993)","Pontypridd, UK",,,1993-10-09,1993,10,9,null
+123,-1.12483,52.623302,303237.88,459236.6,-1,"Blur at Leicester University Student Union (October 10, 1993)","Leicester, UK",,,1993-10-10,1993,10,10,null
+124,-1.5063632,52.408897,279146.34,433575.47,-1,"Blur at Coventry University (October 12, 1993)","Coventry, UK",,,1993-10-12,1993,10,12,null
+125,-1.0785611,50.779034,98185.97,464956.84,-1,"Blur at South Parade Pier (October 14, 1993)","Southsea, UK",,,1993-10-14,1993,10,14,null
+126,0.891874,51.895927,225933.2,598949.5,-1,"Blur with Salad and Garp at University of Essex (October 15, 1993)","Colchester, UK",,,1993-10-15,1993,10,15,null
+127,-0.138,50.839,106100.81,531090.25,-1,"Blur with Salad and My Life Story at Sussex University (October 16, 1993)","Brighton, UK",,,1993-10-16,1993,10,16,null
+128,-1.1535941,52.955887,340206.6,456854.47,2000,"Blur with Sleeper at Rock City (May 10, 1994)","Nottingham, UK",,,1994-05-10,1994,5,10,null
+129,-2.1299286,52.586216,298761.62,391198.16,4000,"Blur with Sleeper at The Civic Hall (May 11, 1994)","Wolverhampton, UK",,,1994-05-11,1994,5,11,null
+130,-4.247,55.86,665261.06,259380.3,-1,"Blur with Sleeper at Plaza (May 16, 1994)","Glasgow, UK",,,1994-05-16,1994,5,16,null
+131,-3.1815026,55.941494,672677.9,326210.06,900,"Blur with Sleeper at The Queen's Hall (May 17, 1994)","Edinburgh, UK",,,1994-05-17,1994,5,17,null
+132,-1.6094534,54.980087,565134.0,424992.6,-1,"Blur with Sleeper at Northumbria University Student Union (May 18, 1994)","Newcastle Upon Tyne, UK",,,1994-05-18,1994,5,18,null
+133,-2.23149,53.464108,396428.9,384633.22,1500,"Blur with Sleeper at Manchester Academy (May 19, 1994)","Manchester, UK",,,1994-05-19,1994,5,19,null
+134,-1.4912771,53.381065,387286.6,433835.84,-1,"Blur with Sleeper at Octagon Centre, University of Sheffield (May 21, 1994)","Sheffield, UK",,,1994-05-21,1994,5,21,null
+135,-0.138,50.839,106100.81,531090.25,-1,"Blur at The Event (May 23, 1994)","Brighton, UK",,,1994-05-23,1994,5,23,null
+136,1.1522043,52.0573,244617.38,616076.8,-1,"Blur with Sleeper at Ipswich Corn Exchange (May 24, 1994)","Ipswich, UK",,,1994-05-24,1994,5,24,null
+137,-0.2238407,51.503506,179836.06,523262.38,2000,"Blur with Sleeper at O2 Shepherd's Bush Empire (May 25, 1994)","London, UK",,,1994-05-25,1994,5,25,null
+138,-0.2238407,51.503506,179836.06,523262.38,2000,"Blur with Sleeper at O2 Shepherd's Bush Empire (May 26, 1994)","London, UK",,,1994-05-26,1994,5,26,null
+139,-0.2238407,51.503506,179836.06,523262.38,2000,"Blur with Sleeper at O2 Shepherd's Bush Empire (May 27, 1994)","London, UK",,,1994-05-27,1994,5,27,null
+140,-1.4055136,50.907608,112245.66,441793.5,1749,"Blur with Sleeper at O2 Guildhall Southampton (May 28, 1994)","Southampton, UK",,,1994-05-28,1994,5,28,null
+141,1.2490275,52.62884,308450.78,619856.56,1500,"Blur with Sleeper at Norwich UEA LCR (May 29, 1994)","Norwich, UK",,,1994-05-29,1994,5,29,null
+142,-1.5473124,53.8018,434065.22,429811.28,2700,"Blur with Sleeper at O2 Academy Leeds (May 31, 1994)","Leeds, UK",,,1994-05-31,1994,5,31,null
+143,-0.8122743,51.815697,213725.39,481863.2,-1,"Blur with Sleeper at Aylesbury Civic Centre (Friars) (June 1, 1994)","Aylesbury, UK",,,1994-06-01,1994,6,1,null
+144,-2.587,51.1663,141007.0,358961.97,-1,Glastonbury Festival 1994,"Pilton, UK",,,1994-06-24,1994,6,24,null
+145,-4.247,55.86,665261.06,259380.3,-1,T In The Park 1994,"Glasgow, UK",,,1994-07-30,1994,7,30,null
+146,-4.004525,55.786755,656645.94,274316.25,-1,In The Park 1994,"Motherwell, UK",,,1994-07-30,1994,7,30,null
+147,0.1194611,52.20439,258403.69,544816.44,1800,"Blur with Sleeper at Corn Exchange Cambridge (October 4, 1994)","Cambridge, UK",,,1994-10-04,1994,10,4,null
+148,-1.8731058,52.506416,289885.47,408611.88,-1,"Blur with Pulp at Aston Events Centre (October 5, 1994)","Birmingham, UK",,,1994-10-05,1994,10,5,null
+149,0.891874,51.895927,225933.2,598949.5,-1,"Blur with Pulp at University of Essex (October 6, 1994)","Colchester, UK",,,1994-10-06,1994,10,6,null
+150,-0.1331833,51.590786,189697.38,529305.6,10250,"Blur with Pulp and Supergrass at Alexandra Palace (October 7, 1994)","London, UK",,,1994-10-07,1994,10,7,null
+151,0.9,51.8833,224551.8,599564.4,-1,"Blur at Unknown venue (December 16, 1994)","Colchester, UK",,,1994-12-16,1994,12,16,null
+152,-0.141771,51.552048,185374.97,528820.3,2350,"Blur with Dodgy, Galliano, and Echobelly at The Forum (January 23, 1995)","London, UK",,,1995-01-23,1995,1,23,null
+153,-0.1455831,51.537445,183744.52,528597.25,-1,"Blur with Soda at The Dublin Castle (May 18, 1995)","London, UK",,,1995-05-18,1995,5,18,null
+154,-3.53333,50.7,90114.62,291727.4,-1,"Blur at Summer Ball, Exeter University (June 15, 1995)","Exeter, UK",,,1995-06-15,1995,6,15,null
+155,-0.128,51.5078,180479.5,529900.8,-1,"Blur with Dodgy, Sparks, Cardiacs, and 1 more… at Mile End Stadium (June 17, 1995)","London, UK",,,1995-06-17,1995,6,17,null
+156,-0.7597312,52.01577,236035.0,485105.44,65000,"R.E.M. with Magnapop, Belly, and Blur at The National Bowl (July 29, 1995)","Milton Keynes, UK",,,1995-07-29,1995,7,29,null
+157,-0.033333,53.55,407757.3,530280.4,-1,"Blur at Pier 39 (September 12, 1995)","Cleethorpes, UK",,,1995-09-12,1995,9,12,null
+158,-2.8444302,54.077934,465019.72,344757.38,-1,"Blur at The Dome (September 14, 1995)","Morecambe, UK",,,1995-09-14,1995,9,14,null
+159,-0.1379306,51.51614,181388.83,529188.2,-1,"Blur at HMV Oxford Street (September 15, 1995)","London, UK",,,1995-09-15,1995,9,15,null
+160,0.2857328,50.76346,98540.13,561179.1,-1,"Blur at Floral Hall (September 16, 1995)","Eastbourne, UK",,,1995-09-16,1995,9,16,null
+161,1.16667,51.7833,214199.17,618394.7,-1,"Blur with Matt Lucas at Oscars Nightclub (September 17, 1995)","Clacton-on-sea, UK",,,1995-09-17,1995,9,17,null
+162,-1.86,50.724,91671.41,409880.97,-1,"Blur at The Showbar (September 18, 1995)","Bournemouth, UK",,,1995-09-18,1995,9,18,null
+163,-0.1442114,50.822224,104224.414,530699.9,-1,"Blur at The Paradox (September 19, 1995)","Brighton, UK",,,1995-09-19,1995,9,19,null
+164,1.75,52.6333,310593.53,653718.8,-1,"Blur at Ocean Room (September 20, 1995)","Great Yarmouth, UK",,,1995-09-20,1995,9,20,null
+165,-1.7289522,52.451088,283758.75,418418.16,15700,"Blur at LG Arena (November 25, 1995)","Birmingham, UK",,,1995-11-25,1995,11,25,null
+166,-1.7289522,52.451088,283758.75,418418.16,15700,"Blur at LG Arena (November 26, 1995)","Birmingham, UK",,,1995-11-26,1995,11,26,null
+167,-1.4168171,53.400543,389491.4,438770.53,13500,"Blur at Motorpoint Arena (November 27, 1995)","Sheffield, UK",,,1995-11-27,1995,11,27,null
+168,-4.2809606,55.860603,665397.9,257257.62,-1,"Blur at Scottish Exhibition and Conference Centre (November 28, 1995)","Glasgow, UK",,,1995-11-28,1995,11,28,null
+169,-2.3037128,53.39997,389312.12,379808.56,-1,"Blur at Manchester Central (GMEX) (November 30, 1995)","Manchester, UK",,,1995-11-30,1995,11,30,null
+170,-2.3037128,53.39997,389312.12,379808.56,-1,"Blur at Manchester Central (GMEX) (December 1, 1995)","Manchester, UK",,,1995-12-01,1995,12,1,null
+171,-0.2827842,51.5577,185764.45,519030.62,12500,"Blur at Wembley Arena (December 2, 1995)","London, UK",,,1995-12-02,1995,12,2,null
+172,-0.2827842,51.5577,185764.45,519030.62,12500,"Blur at Wembley Arena (December 3, 1995)","London, UK",,,1995-12-03,1995,12,3,null
+173,-3.1726308,51.478806,176245.6,318575.84,7500,"Blur at Motorpoint Arena Cardiff (December 5, 1995)","Cardiff, UK",,,1995-12-05,1995,12,5,null
+174,-1.8791888,50.71766,90963.87,408527.8,-1,"Blur at Bournemouth International Centre (December 6, 1995)","Bournemouth, UK",,,1995-12-06,1995,12,6,null
+175,-1.624028,54.963074,563235.8,424070.06,-1,"Blur with Brit Pops Orchestra at Metro Radio Arena (December 8, 1995)","Newcastle Upon Tyne, UK",,,1995-12-08,1995,12,8,null
+176,-0.3413888,53.73894,428254.16,509385.2,-1,"Blur at Hull Arena (December 9, 1995)","Hull, UK",,,1995-12-09,1995,12,9,null
+177,-4.2809606,55.860603,665397.9,257257.62,-1,"Blur at Scottish Exhibition and Conference Centre (December 11, 1995)","Glasgow, UK",,,1995-12-11,1995,12,11,null
+178,-0.2827842,51.5577,185764.45,519030.62,12500,"Blur at Wembley Arena (December 13, 1995)","London, UK",,,1995-12-13,1995,12,13,null
+179,0.136877,52.190983,256947.36,546050.25,1050,"Blur at The Junction (January 20, 1997)","Cambridge, UK",,,1997-01-20,1997,1,20,null
+180,-1.611,54.973,564344.94,424898.0,-1,"Blur with Sneaker Pimps and Silt at Mayfair Ballroom (January 22, 1997)","Newcastle Upon Tyne, UK",,,1997-01-22,1997,1,22,null
+181,-4.2369184,55.855057,664690.9,259993.33,1900,"Blur at Barrowland Ballroom (January 23, 1997)","Glasgow, UK",,,1997-01-23,1997,1,23,null
+182,-2.9813228,53.407375,390541.25,334771.8,-1,"Blur with Sneaker Pimps and Silt at Royal Court Theatre (January 24, 1997)","Liverpool, UK",,,1997-01-24,1997,1,24,null
+183,-1.1535941,52.955887,340206.6,456854.47,2000,"Blur with Sneaker Pimps at Rock City (January 26, 1997)","Nottingham, UK",,,1997-01-26,1997,1,26,null
+184,-1.5473124,53.8018,434065.22,429811.28,2700,"Blur with Sneaker Pimps at O2 Academy Leeds (January 27, 1997)","Leeds, UK",,,1997-01-27,1997,1,27,null
+185,0.6910414,51.5372,185519.88,586607.1,-1,"Blur at Cliffs Pavilion (January 28, 1997)","Westcliff-on-sea, UK",,,1997-01-28,1997,1,28,null
+186,-0.1304708,51.515884,181373.95,529706.4,2000,"Blur at Astoria (February 10, 1997)","London, UK",,,1997-02-10,1997,2,10,null
+187,0.99375,52.1842,258265.94,604635.2,-1,"Blur at Peel Acres (April 22, 1997)","Stowmarket, UK",,,1997-04-22,1997,4,22,null
+188,0.4522177,51.718914,205141.05,569370.2,90000,V Festival 1997,"Chelmsford, UK",,,1997-08-16,1997,8,16,null
+189,-1.548,53.797,433531.12,429769.4,90000,V Festival 1997,"Leeds, UK",,,1997-08-16,1997,8,16,null
+190,-1.548,53.797,433531.12,429769.4,-1,V97 1997,"Leeds, UK",,,1997-08-23,1997,8,23,null
+191,-0.3413888,53.73894,428254.16,509385.2,-1,"Blur at Hull Arena (November 30, 1997)","Hull, UK",,,1997-11-30,1997,11,30,null
+192,-4.2809606,55.860603,665397.9,257257.62,-1,"Blur with Super Furry Animals at Scottish Exhibition and Conference Centre (December 1, 1997)","Glasgow, UK",,,1997-12-01,1997,12,1,null
+193,-1.624028,54.963074,563235.8,424070.06,-1,"Blur at Newcastle Arena (December 2, 1997)","Newcastle Upon Tyne, UK",,,1997-12-02,1997,12,2,null
+194,-2.235,53.477,397863.8,384404.94,-1,"Blur with Super Furry Animals and The Shirehorses at NYNEX Arena (December 4, 1997)","Manchester, UK",,,1997-12-04,1997,12,4,null
+195,-3.1726308,51.478806,176245.6,318575.84,7500,"Blur with Super Furry Animals and Warm Jets at Motorpoint Arena Cardiff (December 5, 1997)","Cardiff, UK",,,1997-12-05,1997,12,5,null
+196,-1.7289522,52.451088,283758.75,418418.16,15700,"Blur with Super Furry Animals, Warm Jets, and The Shirehorses at LG Arena (December 6, 1997)","Birmingham, UK",,,1997-12-06,1997,12,6,null
+197,-1.4168171,53.400543,389491.4,438770.53,13500,"Blur with Super Furry Animals and The Shirehorses at Motorpoint Arena (December 7, 1997)","Sheffield, UK",,,1997-12-07,1997,12,7,null
+198,-0.2827842,51.5577,185764.45,519030.62,12500,"Blur with Super Furry Animals and Warm Jets at Wembley Arena (December 9, 1997)","London, UK",,,1997-12-09,1997,12,9,null
+199,-0.1148897,51.465122,175757.08,530932.7,4921,"Blur at O2 Academy Brixton (December 11, 1997)","London, UK",,,1997-12-11,1997,12,11,null
+200,-0.1148897,51.465122,175757.08,530932.7,4921,"Blur with Super Furry Animals and Warm Jets at O2 Academy Brixton (December 12, 1997)","London, UK",,,1997-12-12,1997,12,12,null
+201,-0.1148897,51.465122,175757.08,530932.7,4921,"Blur with Super Furry Animals and Warm Jets at O2 Academy Brixton (December 13, 1997)","London, UK",,,1997-12-13,1997,12,13,null
+202,-1.8791888,50.71766,90963.87,408527.8,-1,"Blur with Super Furry Animals at Bournemouth International Centre (December 16, 1997)","Bournemouth, UK",,,1997-12-16,1997,12,16,null
+203,-0.1488263,50.82128,104111.836,530377.44,-1,"Blur with Super Furry Animals and Warm Jets at Brighton Centre (December 17, 1997)","Brighton, UK",,,1997-12-17,1997,12,17,null
+204,-1.7289522,52.451088,283758.75,418418.16,15700,"Blur at LG Arena (February 12, 1998)","Birmingham, UK",,,1998-02-12,1998,2,12,null
+205,-0.97319,51.454,173334.97,471337.72,-1,"Blur at Alleycat (June 23, 1998)","Reading, UK",,,1998-06-23,1998,6,23,null
+206,-1.8928883,52.483723,287359.3,407273.06,-1,"Blur with Idlewild at Q Club (June 24, 1998)","Birmingham, UK",,,1998-06-24,1998,6,24,null
+207,-2.3526983,51.380913,164766.61,375456.88,-1,"Blur at Bath Pavilion (June 25, 1998)","Bath, UK",,,1998-06-25,1998,6,25,null
+208,-2.587,51.1663,141007.0,358961.97,-1,Glastonbury Festival 1998,"Pilton, UK",,,1998-06-26,1998,6,26,null
+209,-0.128,51.5078,180479.5,529900.8,-1,"Blur at The Depot (January 30, 1999)","London, UK",,,1999-01-30,1999,1,30,null
+210,-1.2295461,51.75517,206607.78,453174.66,-1,"Blur at Oxford Brookes University Student Union (February 3, 1999)","Oxford, UK",,,1999-02-03,1999,2,3,null
+211,-0.128,51.5078,180479.5,529900.8,-1,"Blur at The Depot (March 10, 1999)","London, UK",,,1999-03-10,1999,3,10,null
+212,-0.1284404,51.51132,180869.45,529860.25,-1,"Blur at Hippodrome (March 15, 1999)","London, UK",,,1999-03-15,1999,3,15,null
+213,-0.128,51.5078,180479.5,529900.8,-1,"Blur, Van Morrison, Wilco, Natacha Atlas, and 1 more… at Later with Jools Holland (April 16, 1999)","London, UK",,,1999-04-16,1999,4,16,null
+214,-0.0085177,51.482708,177908.16,538267.06,-1,"Blur at Old Royal Naval College (June 1, 1999)","Greenwich, UK",,,1999-06-01,1999,6,1,null
+215,-3.42677,56.2075,702567.2,311504.88,-1,T In The Park 1999,"Kinross, UK",,,1999-07-10,1999,7,10,null
+216,-0.0360243,51.47443,176936.12,536382.2,-1,"Blur at Goldsmiths College Student Union (August 26, 1999)","London, UK",,,1999-08-26,1999,8,26,null
+217,-0.969,51.454,173339.06,471628.8,-1,Reading Festival 1999,"Reading, UK",,,1999-08-27,1999,8,27,null
+218,-1.548,53.797,433531.12,429769.4,-1,Leeds Festival 1999,"Leeds, UK",,,1999-08-28,1999,8,28,null
+219,-0.1430625,51.53968,183997.28,528765.75,1100,"Blur at Electric Ballroom (September 6, 1999)","London, UK",,,1999-09-06,1999,9,6,null
+220,-2.9934728,51.58761,188160.81,331180.0,-1,"Blur at Newport Centre (December 4, 1999)","Newport, UK",,,1999-12-04,1999,12,4,null
+221,-5.921106,54.596527,529455.25,146751.47,-1,"Blur at Waterfront Hall (December 6, 1999)","Belfast, UK",,,1999-12-06,1999,12,6,null
+222,-3.2488115,55.92827,671279.94,321980.0,-1,"Blur at Edinburgh Corn Exchange (December 7, 1999)","Edinburgh, UK",,,1999-12-07,1999,12,7,null
+223,-1.7289522,52.451088,283758.75,418418.16,15700,"Blur at LG Arena (December 9, 1999)","Birmingham, UK",,,1999-12-09,1999,12,9,null
+224,-0.1488263,50.82128,104111.836,530377.44,-1,"Blur at Brighton Centre (December 10, 1999)","Brighton, UK",,,1999-12-10,1999,12,10,null
+225,-0.2827842,51.5577,185764.45,519030.62,12500,"Blur at Wembley Arena (December 11, 1999)","London, UK",,,1999-12-11,1999,12,11,null
+226,-0.128,51.5078,180479.5,529900.8,12500,Meltdown Festival 2000,"London, UK",,,2000-07-02,2000,7,2,null
+227,-0.1,51.3833,166686.45,532202.75,-1,"Blur at Hilton Croydon Hotel (September 19, 2001)","Croydon, UK",,,2001-09-19,2001,9,19,null
+228,-0.128,51.5078,180479.5,529900.8,-1,"Blur at Parlophone showcase (February 7, 2003)","London, UK",,,2003-02-07,2003,2,7,null
+229,-0.1304708,51.515884,181373.95,529706.4,2000,"Blur at Astoria (May 8, 2003)","London, UK",,,2003-05-08,2003,5,8,null
+230,-0.1304708,51.515884,181373.95,529706.4,2000,"Blur at Astoria (May 9, 2003)","London, UK",,,2003-05-09,2003,5,9,null
+231,-0.1304708,51.515884,181373.95,529706.4,2000,"Blur with The Bees (UK) at Astoria (May 10, 2003)","London, UK",,,2003-05-10,2003,5,10,null
+232,-0.1304708,51.515884,181373.95,529706.4,2000,"Blur with Athlete at Astoria (May 12, 2003)","London, UK",,,2003-05-12,2003,5,12,null
+233,-0.1304708,51.515884,181373.95,529706.4,2000,"Blur with Ima Robot at Astoria (May 13, 2003)","London, UK",,,2003-05-13,2003,5,13,null
+234,-0.9831782,51.46432,174473.31,470627.88,-1,Reading Festival 2003,"Reading, UK",,,2003-08-22,2003,8,22,null
+235,-1.39181,53.9332,448759.47,439926.3,90000,Leeds Festival 2003,"Wetherby, UK",,,2003-08-22,2003,8,22,null
+236,-4.2369184,55.855057,664690.9,259993.33,1900,"Blur at Barrowland Ballroom (November 20, 2003)","Glasgow, UK",,,2003-11-20,2003,11,20,null
+237,-4.2369184,55.855057,664690.9,259993.33,1900,"Blur at Barrowland Ballroom (November 21, 2003)","Glasgow, UK",,,2003-11-21,2003,11,21,null
+238,-4.2369184,55.855057,664690.9,259993.33,1900,"Blur at Barrowland Ballroom (November 22, 2003)","Glasgow, UK",,,2003-11-22,2003,11,22,null
+239,-2.9813228,53.407375,390541.25,334771.8,-1,"Blur at Royal Court Theatre (November 24, 2003)","Liverpool, UK",,,2003-11-24,2003,11,24,null
+240,-2.1299286,52.586216,298761.62,391198.16,4000,"Blur with Adrian Sherwood at The Civic Hall (November 25, 2003)","Wolverhampton, UK",,,2003-11-25,2003,11,25,null
+241,-2.1299286,52.586216,298761.62,391198.16,4000,"Blur with DJ Adrian Sherwood at The Civic Hall (November 26, 2003)","Wolverhampton, UK",,,2003-11-26,2003,11,26,null
+242,-2.206175,53.460663,396040.47,386312.56,7000,"Blur at O2 Apollo Manchester (November 28, 2003)","Manchester, UK",,,2003-11-28,2003,11,28,null
+243,-2.206175,53.460663,396040.47,386312.56,7000,"Blur at O2 Apollo Manchester (November 29, 2003)","Manchester, UK",,,2003-11-29,2003,11,29,null
+244,-2.4858239,53.750313,428352.03,367967.4,-1,"Blur at King Georges Hall (November 30, 2003)","Blackburn, UK",,,2003-11-30,2003,11,30,null
+245,-0.1148897,51.465122,175757.08,530932.7,4921,"Blur at O2 Academy Brixton (December 2, 2003)","London, UK",,,2003-12-02,2003,12,2,null
+246,-0.1148897,51.465122,175757.08,530932.7,4921,"Blur with Adrian Sherwood at O2 Academy Brixton (December 3, 2003)","London, UK",,,2003-12-03,2003,12,3,null
+247,-0.1148897,51.465122,175757.08,530932.7,4921,"Blur at O2 Academy Brixton (December 4, 2003)","London, UK",,,2003-12-04,2003,12,4,null
+248,-0.0990931,51.494812,179086.72,531944.06,2600,"Blur at Coronet Theatre (December 5, 2003)","London, UK",,,2003-12-05,2003,12,5,null
+249,-0.1488263,50.82128,104111.836,530377.44,-1,"Blur at Brighton Centre (December 11, 2003)","Brighton, UK",,,2003-12-11,2003,12,11,null
+250,-1.8791888,50.71766,90963.87,408527.8,-1,"Blur with Adrian Sherwood at Bournemouth International Centre (December 12, 2003)","Bournemouth, UK",,,2003-12-12,2003,12,12,null
+251,0.9,51.8833,224551.8,599564.4,-1,"Blur at East Anglian Railway Museum (June 13, 2009)","Colchester, UK",,,2009-06-13,2009,6,13,null
+252,-0.128,51.5078,180479.5,529900.8,200,"Blur at Rough Trade East (June 15, 2009)","London, UK",,,2009-06-15,2009,6,15,null
+253,-0.1148897,51.465122,175757.08,530932.7,4921,"Blur at O2 Academy Brixton (June 20, 2009)","London, UK",,,2009-06-20,2009,6,20,null
+254,0.6910414,51.5372,185519.88,586607.1,-1,"Blur with Magistrates at Cliffs Pavilion (June 21, 2009)","Westcliff-on-sea, UK",,,2009-06-21,2009,6,21,21:30:00
+255,-0.0360243,51.47443,176936.12,536382.2,-1,"Blur at Goldsmiths College Student Union (June 22, 2009)","London, UK",,,2009-06-22,2009,6,22,null
+256,-2.5858552,51.159843,140287.89,359036.28,177500,Glastonbury Festival 2009,"Pilton, UK",,,2009-06-24,2009,6,24,00:00:00
+257,-2.1299286,52.586216,298761.62,391198.16,4000,"Blur with tukazon and Magistrates at The Civic Hall (June 24, 2009)","Wolverhampton, UK",,,2009-06-24,2009,6,24,19:00:00
+258,-1.630738,54.97193,564219.2,423635.28,2000,"Blur with Joe Lean & The Jing Jang Jong at O2 Academy Newcastle (June 25, 2009)","Newcastle Upon Tyne, UK",,,2009-06-25,2009,6,25,19:00:00
+259,-2.243345,53.487312,399012.6,383855.03,21000,"Blur with Klaxons and Florence and the Machine at Phones 4U Arena (June 26, 2009)","Manchester, UK",,,2009-06-26,2009,6,26,19:30:00
+260,-0.128,51.5078,180479.5,529900.8,150000,"Blur with Foals, Crystal Castles, and Hypnotic Brass Ensemble at Hyde Park (July 2, 2009)","London, UK",,,2009-07-02,2009,7,2,19:00:00
+261,-0.128,51.5078,180479.5,529900.8,150000,"Blur with Vampire Weekend, Amadou & Mariam, Florence and the Machine, and 1 more… at Hyde Park (July 3, 2009)","London, UK",,,2009-07-03,2009,7,3,19:00:00
+262,-3.42677,56.2075,702567.2,311504.88,-1,T In The Park 2009,"Kinross, UK",,,2009-07-10,2009,7,10,18:00:00
+263,0.0051303,51.49693,179515.22,539171.2,20000,"Blur, Coldplay, Adele, Bruno Mars, and 5 more… at The O2 Arena (February 21, 2012)","London, UK",,,2012-02-21,2012,2,21,19:15:00
+264,-0.128,51.5078,180479.5,529900.8,-1,"Blur at A rooftop in West London (July 2, 2012)","London, UK",,,2012-07-02,2012,7,2,null
+265,1.3867056,51.39151,171329.98,635585.4,-1,"Blur at Winter Gardens (August 1, 2012)","Margate, UK",,,2012-08-01,2012,8,1,null
+266,-0.1351725,51.516098,181389.14,529379.6,350,"Blur with Savages, Swiss Lips, and The Bots at 100 Club (August 2, 2012)","London, UK",,,2012-08-02,2012,8,2,null
+267,-2.1299286,52.586216,298761.62,391198.16,4000,"Blur at The Civic Hall (August 5, 2012)","Wolverhampton, UK",,,2012-08-05,2012,8,5,null
+268,-2.1299286,52.586216,298761.62,391198.16,4000,"Blur at The Civic Hall (August 6, 2012)","Wolverhampton, UK",,,2012-08-06,2012,8,6,null
+269,-4.152859,50.367966,54291.617,246913.03,-1,"Blur at Plymouth Pavilions (August 7, 2012)","Plymouth, UK",,,2012-08-07,2012,8,7,null
+270,-0.128,51.5078,180479.5,529900.8,150000,"Blur with The Specials, New Order, and Bombay Bicycle Club at Hyde Park (August 12, 2012)","London, UK",,,2012-08-12,2012,8,12,null
