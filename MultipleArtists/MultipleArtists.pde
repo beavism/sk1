@@ -8,15 +8,15 @@ int northLimit = 1200000;
 int southLimit = 0;
 int eastLimit = 700000;
 int westLimit = -200000;
-String[] artists = {"Kasabian", "ArcticMonkeys", "TheLibertines"};
+String[] artists = {"Oasis", "Suede", "Blur"};
 float[] reds = {175, 255,255};
 float[] greens = {238,160,255};
 float[] blues = {238,122,224};
-int startYear = 2003;
-int startMonth = 11;
+int startYear = 1994;
+int startMonth = 1;
 int startDay = 8;
-int endYear = 2006;
-int endMonth = 10;
+int endYear = 1995;
+int endMonth = 1;
 int endDay = 30;
 GregorianCalendar calendar = new GregorianCalendar();
 GregorianCalendar endDate = new GregorianCalendar();
@@ -29,7 +29,7 @@ int numArtists = 2;
 BoundingBox box = new BoundingBox(northLimit, eastLimit, southLimit, westLimit);
 Polygons basemap;
 //PShape mapBox;
-
+PGraphics ukmap;
 
 void setup()
 {
@@ -43,7 +43,18 @@ size((eastLimit-westLimit)/1000,(northLimit-southLimit)/1000);
   endDate.set(endYear, endMonth-1, endDay,0,0,0);
   gigography = loadPastGigs(artists);
   //frameRate(100);
+  ukmap = createGraphics(width, height);
+  
   background(80, 0,0);
+  noFill();
+  stroke(255,255,255,50);
+  strokeWeight(.25);
+    ukmap.beginDraw();
+  ukmap.background(80,0,0);
+  ukmap.stroke(255,255,255);
+   basemap.project(this, ukmap);
+  ukmap.endDraw();
+
   // basemap.project(this);
   //image(backgroundMap, 0, 0, width, height);
 
@@ -52,10 +63,12 @@ size((eastLimit-westLimit)/1000,(northLimit-southLimit)/1000);
 void draw(){
  // fill(255,255,255,50);
   //println(frameRate);
-  noFill();
-  stroke(255,255,255,50);
-  strokeWeight(.25);
- basemap.project(this);
+  //noFill();
+  //stroke(255,255,255,50);
+//  strokeWeight(.25);
+ //basemap.project(ukmap);
+
+ image(ukmap,width,height);
         noStroke();
         fill(0,0, 0, 3);
       //  shape(mapBox,400,240);
@@ -140,15 +153,15 @@ ArrayList loadPastGigs(String[] a){
     h.artistName = a[i];
     h.index = 0;
     h.incrementer = 0;
-   Table table = loadTable("data/"+ a[i] + ".csv", "header");
+   Table table = loadTable("tableinputsk/data/"+ a[i] + ".csv", "header");
     ArrayList g = new ArrayList<Event>();
       for(int j = 0; j < table.getRowCount(); j++) { 
         TableRow r = table.getRow(j);
         Event e = new Event();
          e.id = j;
          e.venueSize= r.getInt("venueSize");
-         e.xcoord = r.getFloat("XBNG");
-         e.ycoord = r.getFloat("YBNG");
+         e.xcoord = r.getFloat("bng_E");
+         e.ycoord = r.getFloat("bng_N");
          e.year = r.getInt("year");
          e.month = r.getInt("month"); 
          e.day = r.getInt("day");
