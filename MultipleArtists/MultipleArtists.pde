@@ -13,8 +13,8 @@ float[] reds = {175, 255,255};
 float[] greens = {238,160,255};
 float[] blues = {238,122,224};
 int startYear = 1994;
-int startMonth = 1;
-int startDay = 8;
+int startMonth = 3;
+int startDay =23;
 int endYear = 1995;
 int endMonth = 1;
 int endDay = 30;
@@ -36,23 +36,24 @@ void setup()
 size((eastLimit-westLimit)/1000,(northLimit-southLimit)/1000);
 
   basemap  = new Polygons(box, dataPath("uk.shp"));
- basemap.setLocalSimplificationThreshold(0.5);
+ basemap.setLocalSimplificationThreshold(1000);
  
 
-   calendar.set(startYear, startMonth-1, startDay,0,0,0);
+  calendar.set(startYear, startMonth-1, startDay,0,0,0);
   endDate.set(endYear, endMonth-1, endDay,0,0,0);
   gigography = loadPastGigs(artists);
   //frameRate(100);
   ukmap = createGraphics(width, height);
   
   background(80, 0,0);
-  noFill();
-  stroke(255,255,255,50);
-  strokeWeight(.25);
-    ukmap.beginDraw();
-  ukmap.background(80,0,0);
+ // noFill();
+  //stroke(255,255,255,50);
+  //strokeWeight(.25);
+  ukmap.beginDraw();
+  //ukmap.background(80,0,0,3);
+  ukmap.noFill();
   ukmap.stroke(255,255,255);
-   basemap.project(this, ukmap);
+  basemap.project(this, ukmap);
   ukmap.endDraw();
 
   // basemap.project(this);
@@ -61,31 +62,31 @@ size((eastLimit-westLimit)/1000,(northLimit-southLimit)/1000);
 }
  
 void draw(){
- // fill(255,255,255,50);
-  //println(frameRate);
+  println(frameRate);
+  
   //noFill();
   //stroke(255,255,255,50);
 //  strokeWeight(.25);
  //basemap.project(ukmap);
 
- image(ukmap,width,height);
+
         noStroke();
-        fill(0,0, 0, 3);
-      //  shape(mapBox,400,240);
-        rect(0,0,width,height); //fading rectangle
+        fill(80,0, 0, 12);
+        rect(0,0,width,height); //fading rectangle 
+        image(ukmap,0,0,width,height);
         fill(255, 255, 255); 
         rect(0,height-26, width, height);
         rect(0,10, width, 14);
   for(int z=0; z < gigography.size(); z++){
     
     artistHistory thisArtist = gigography.get(z);
-    println(thisArtist.artistName);
+  //  println(thisArtist.artistName);
     if (thisArtist.incrementer >= 1.0){
       thisArtist.incrementer = 0;
       thisArtist.index++;
     }
     if(thisArtist.index < thisArtist.pastGigs.size()-1){
-      println(calendar.getTime());
+    //  println(calendar.getTime());
       Event currentE = thisArtist.pastGigs.get(thisArtist.index);
       Event nextE = thisArtist.pastGigs.get(thisArtist.index+1);
       //ArrayList<Event> = currentE
